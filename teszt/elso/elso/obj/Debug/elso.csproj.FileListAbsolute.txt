@@ -1,0 +1,7 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\bin\Debug\elso.exe.config
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\bin\Debug\elso.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\bin\Debug\elso.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\obj\Debug\elso.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\obj\Debug\elso.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\teszt\elso\elso\obj\Debug\elso.pdb
