@@ -19,6 +19,15 @@ namespace elso
             Console.WriteLine(szam3);
             char betu = 'a';
             Console.WriteLine(betu);
+            Console.WriteLine((char)(betu+2));
+            Console.WriteLine((char)1);
+            Console.WriteLine(Convert.ToInt32(betu));
+            Console.WriteLine(10/(double)3);
+            int i = 0;
+            i ++;
+            i --;
+            Console.WriteLine(i++);
+            Console.WriteLine(++i);
         }
     }
 }
