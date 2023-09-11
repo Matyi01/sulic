@@ -1,0 +1,7 @@
+D:\git\sulic\hf\hf2\hf2\obj\Debug\hf2.csproj.AssemblyReference.cache
+D:\git\sulic\hf\hf2\hf2\obj\Debug\hf2.csproj.CoreCompileInputs.cache
+D:\git\sulic\hf\hf2\hf2\bin\Debug\hf2.exe.config
+D:\git\sulic\hf\hf2\hf2\bin\Debug\hf2.exe
+D:\git\sulic\hf\hf2\hf2\bin\Debug\hf2.pdb
+D:\git\sulic\hf\hf2\hf2\obj\Debug\hf2.exe
+D:\git\sulic\hf\hf2\hf2\obj\Debug\hf2.pdb
