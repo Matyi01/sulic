@@ -1,0 +1,7 @@
+D:\git\sulic\hf\hf3\hf3\obj\Debug\hf3.csproj.AssemblyReference.cache
+D:\git\sulic\hf\hf3\hf3\obj\Debug\hf3.csproj.CoreCompileInputs.cache
+D:\git\sulic\hf\hf3\hf3\bin\Debug\hf3.exe.config
+D:\git\sulic\hf\hf3\hf3\bin\Debug\hf3.exe
+D:\git\sulic\hf\hf3\hf3\bin\Debug\hf3.pdb
+D:\git\sulic\hf\hf3\hf3\obj\Debug\hf3.exe
+D:\git\sulic\hf\hf3\hf3\obj\Debug\hf3.pdb
