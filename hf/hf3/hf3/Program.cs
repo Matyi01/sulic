@@ -10,10 +10,32 @@ namespace hf3
     {
         static void Main(string[] args)
         {
-            for (int i = 5; i <= 10; i++)
+            Console.Write("Kérek egy számot: ");
+            int elso = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Kérek egy nagyobb számot: ");
+            int masodik = Convert.ToInt32(Console.ReadLine());
+            for (int i = elso; i <= masodik; i++)
             {
                 double sqr = Math.Pow(i, 2);
                 Console.WriteLine(sqr);
+            }
+
+
+            string szavak = "";
+            while (true)
+            {
+                Console.Write("Kérek egy szót: ");
+                string szo = Convert.ToString(Console.ReadLine());
+                if (szo == "")
+                {
+                    Console.WriteLine(szavak);
+                    break;
+                }
+                else
+                {
+                    szavak += szo+", ";
+                }
+
             }
         }
     }
