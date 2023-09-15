@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\bin\Debug\net6.0\orai2.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\bin\Debug\net6.0\orai2.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\bin\Debug\net6.0\orai2.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\bin\Debug\net6.0\orai2.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\bin\Debug\net6.0\orai2.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\refint\orai2.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\orai2.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\orai2\orai2\obj\Debug\net6.0\ref\orai2.dll
