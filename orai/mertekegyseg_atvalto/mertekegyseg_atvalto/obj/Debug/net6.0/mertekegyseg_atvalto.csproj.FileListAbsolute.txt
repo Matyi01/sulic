@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\bin\Debug\net6.0\mertekegyseg_atvalto.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\bin\Debug\net6.0\mertekegyseg_atvalto.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\bin\Debug\net6.0\mertekegyseg_atvalto.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\bin\Debug\net6.0\mertekegyseg_atvalto.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\bin\Debug\net6.0\mertekegyseg_atvalto.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\refint\mertekegyseg_atvalto.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\mertekegyseg_atvalto.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\mertekegyseg_atvalto\mertekegyseg_atvalto\obj\Debug\net6.0\ref\mertekegyseg_atvalto.dll
