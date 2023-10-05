@@ -1,5 +1,6 @@
 ﻿
-using System.Reflection.Metadata;
+string[] hosszusag = { "mm", "cm", "dm", "m", "km"};
+
 
 bool jo = false;
 
