@@ -1,0 +1,14 @@
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.exe
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.deps.json
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.runtimeconfig.json
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.dll
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.pdb
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.AssemblyInfoInputs.cache
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.AssemblyInfo.cs
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.csproj.CoreCompileInputs.cache
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.dll
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\refint\hf4Matrix.dll
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.pdb
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.genruntimeconfig.cache
+D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\ref\hf4Matrix.dll

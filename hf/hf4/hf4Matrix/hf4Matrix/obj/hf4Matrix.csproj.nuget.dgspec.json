@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\sulic\\orai\\tombok\\tombok\\tombok\\tombok.csproj": {}
+    "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {}
   },
   "projects": {
-    "D:\\git\\sulic\\orai\\tombok\\tombok\\tombok\\tombok.csproj": {
+    "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\sulic\\orai\\tombok\\tombok\\tombok\\tombok.csproj",
-        "projectName": "tombok",
-        "projectPath": "D:\\git\\sulic\\orai\\tombok\\tombok\\tombok\\tombok.csproj",
+        "projectUniqueName": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
+        "projectName": "hf4Matrix",
+        "projectPath": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
         "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\sulic\\orai\\tombok\\tombok\\tombok\\obj\\",
+        "outputPath": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
