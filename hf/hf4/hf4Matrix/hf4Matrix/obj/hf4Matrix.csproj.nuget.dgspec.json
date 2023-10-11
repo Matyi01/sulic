@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {}
   },
   "projects": {
-    "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
         "projectName": "hf4Matrix",
-        "projectPath": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
-        "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\obj\\",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\hf4Matrix.csproj",
+        "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf4\\hf4Matrix\\hf4Matrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

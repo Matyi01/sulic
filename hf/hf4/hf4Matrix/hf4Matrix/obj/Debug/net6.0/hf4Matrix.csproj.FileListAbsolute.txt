@@ -12,3 +12,17 @@ D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\refint\hf4Matrix.dll
 D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.pdb
 D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.genruntimeconfig.cache
 D:\git\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\ref\hf4Matrix.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\bin\Debug\net6.0\hf4Matrix.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\refint\hf4Matrix.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\hf4Matrix.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\hf\hf4\hf4Matrix\hf4Matrix\obj\Debug\net6.0\ref\hf4Matrix.dll
