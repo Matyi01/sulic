@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tombok3", "tombok3\tombok3.csproj", "{6737EC7C-3A39-4412-860B-1F1EAD432126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6737EC7C-3A39-4412-860B-1F1EAD432126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6737EC7C-3A39-4412-860B-1F1EAD432126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6737EC7C-3A39-4412-860B-1F1EAD432126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6737EC7C-3A39-4412-860B-1F1EAD432126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FEA030A-82F2-41FF-819A-E74A21FBC324}
+	EndGlobalSection
+EndGlobal
