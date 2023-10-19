@@ -33,7 +33,7 @@ void szakasz2(int[] szamtomb)
             kezd = i;
         }
     }
-    Console.Write("A legnagyobb számsorozat {0} elemű: ", maxveg - maxkezd + 1);
+    Console.Write("A legnagyobb növekvő számsorozat {0} elemű: ", maxveg - maxkezd + 1);
     for (int i = maxkezd; i < maxveg + 1; i++)
     {
         Console.Write("{0}, ",szamtomb[i]);
@@ -50,7 +50,7 @@ void szakasz3(int[] szamtomb)
 
     for (int i = 1; i < szamtomb.Length; i++)
     {
-        if (szamtomb[i - 1] < szamtomb[i])
+        if (szamtomb[i - 1] >= szamtomb[i])
         {
 
         }
@@ -65,7 +65,7 @@ void szakasz3(int[] szamtomb)
             kezd = i;
         }
     }
-    Console.Write("A legnagyobb számsorozat {0} elemű: ", maxveg - maxkezd + 1);
+    Console.Write("A legnagyobb csökkenő számsorozat {0} elemű: ", maxveg - maxkezd + 1);
     for (int i = maxkezd; i < maxveg + 1; i++)
     {
         Console.Write("{0}, ", szamtomb[i]);
@@ -73,6 +73,33 @@ void szakasz3(int[] szamtomb)
     Console.WriteLine();
 }
 
+int[] negyjegyuek()
+{
+    int[] szamok = new int[10000];
+    Random rand = new Random();
+    for (int i = 0; i < szamok.Length; i++)
+    {
+        szamok[i] = rand.Next(1000, 10000);
+    }
+    return szamok;
+}
+
+int[,] szakaszkeres(int[] tomb)
+{
+    int[,] szakaszok = new int[tomb.Length, 3];
+    int szakaszokindex = 0;
+    for (int i = 2; i < tomb.GetLength(0); i++)
+    {
+        if (tomb[i] - tomb[i -1] >= 10 || tomb[i] - tomb[i - 1] <= 10 
+            && tomb[i] - tomb[i - 2] >= 10 || tomb[i] - tomb[i - 2] <= 10)
+        {
+            szakaszok[szakaszokindex++, 0] = tomb[i - 2];
+            szakaszok[szakaszokindex, 1] = tomb[i - 1];
+            szakaszok[szakaszokindex, 2] = tomb[i];
+        }
+    }
+    return szakaszok;
+}
 
 
 int[] szamok = tombkeszit(1000, 100, 999);
@@ -111,3 +138,13 @@ else
 
 
 szakasz2(szamok);
+szakasz3(szamok);
+int[,] szakaszok = szakaszkeres(negyjegyuek());
+for  (int i = 0; i  < szakaszok.GetLength(0); i++)
+{
+    for (int j = 0; j < szakaszok.GetLength(1); j++)
+    {
+        Console.Write($"{szakaszok[i, j]}, ");
+    }
+    Console.WriteLine();
+}
