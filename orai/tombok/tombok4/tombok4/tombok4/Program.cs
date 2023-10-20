@@ -90,12 +90,12 @@ int[,] szakaszkeres(int[] tomb)
     int szakaszokindex = 0;
     for (int i = 2; i < tomb.GetLength(0); i++)
     {
-        if (tomb[i] - tomb[i -1] >= 10 || tomb[i] - tomb[i - 1] <= 10 
-            && tomb[i] - tomb[i - 2] >= 10 || tomb[i] - tomb[i - 2] <= 10)
+        if (tomb[i] - tomb[i - 1] >= -100 && tomb[i] - tomb[i - 1] <= 100
+            && tomb[i] - tomb[i - 2] >= -100 && tomb[i] - tomb[i - 2] <= 100)
         {
-            szakaszok[szakaszokindex++, 0] = tomb[i - 2];
+            szakaszok[szakaszokindex, 0] = tomb[i - 2];
             szakaszok[szakaszokindex, 1] = tomb[i - 1];
-            szakaszok[szakaszokindex, 2] = tomb[i];
+            szakaszok[szakaszokindex++, 2] = tomb[i];
         }
     }
     return szakaszok;
@@ -144,7 +144,13 @@ for  (int i = 0; i  < szakaszok.GetLength(0); i++)
 {
     for (int j = 0; j < szakaszok.GetLength(1); j++)
     {
-        Console.Write($"{szakaszok[i, j]}, ");
+        if (szakaszok[i, j] != 0)
+        {
+            Console.Write($"{szakaszok[i, j]}, ");
+            if (j == 2)
+            {
+                Console.WriteLine();
+            }
+        }
     }
-    Console.WriteLine();
 }
