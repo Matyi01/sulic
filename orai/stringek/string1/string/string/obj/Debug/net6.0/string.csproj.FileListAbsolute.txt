@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\bin\Debug\net6.0\string.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\bin\Debug\net6.0\string.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\bin\Debug\net6.0\string.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\bin\Debug\net6.0\string.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\bin\Debug\net6.0\string.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\refint\string.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\string.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\stringek\string1\string\string\obj\Debug\net6.0\ref\string.dll
