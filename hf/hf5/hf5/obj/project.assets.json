@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\sulic\\orai\\stringek\\string1\\string\\string\\string.csproj",
-      "projectName": "string",
-      "projectPath": "D:\\git\\sulic\\orai\\stringek\\string1\\string\\string\\string.csproj",
+      "projectUniqueName": "D:\\git\\sulic\\hf\\hf5\\hf5\\hf5.csproj",
+      "projectName": "hf5",
+      "projectPath": "D:\\git\\sulic\\hf\\hf5\\hf5\\hf5.csproj",
       "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\sulic\\orai\\stringek\\string1\\string\\string\\obj\\",
+      "outputPath": "D:\\git\\sulic\\hf\\hf5\\hf5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
