@@ -1,5 +1,5 @@
 ﻿string szo = "";
-string betuk = "qwertzuiopasdfghjklyxcvbnm-";
+string betuk = "qwertzuiopasdfghjklyxcvbnmöüóőúéáű-";
 
 while (szo == "")
 {
@@ -25,4 +25,30 @@ while (szo == "")
 }
 Console.WriteLine(szo);
 
+string forditott = "";
+for (int i = 0; i < szo.Length; i++)
+{
+    forditott += szo[szo.Length - 1 - i];
+}
+Console.WriteLine(forditott);
 
+forditott = "";
+for (int i = szo.Length - 1; i >= 0; i--)
+{
+    forditott += szo[i];
+}
+Console.WriteLine(forditott);
+
+forditott = "";
+for(int i = 0; i < szo.Length; i++)
+{
+    forditott = szo[i] + forditott; 
+}
+Console.WriteLine(forditott);
+
+forditott = "";
+for (int i = 0; i < szo.Length; i += 2)
+{
+    forditott += szo.Substring(szo.Length - 2 - i, 2);
+}
+Console.WriteLine(forditott);
