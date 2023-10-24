@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\bin\Debug\net6.0\tombok.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\bin\Debug\net6.0\tombok.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\bin\Debug\net6.0\tombok.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\bin\Debug\net6.0\tombok.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\bin\Debug\net6.0\tombok.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\refint\tombok.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\tombok.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok\tombok\obj\Debug\net6.0\ref\tombok.dll

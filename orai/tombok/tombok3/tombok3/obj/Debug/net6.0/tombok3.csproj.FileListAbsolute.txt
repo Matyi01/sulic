@@ -1,0 +1,28 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\refint\tombok3.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\ref\tombok3.dll
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.AssemblyInfoInputs.cache
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.AssemblyInfo.cs
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.csproj.CoreCompileInputs.cache
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.dll
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\refint\tombok3.dll
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.pdb
+D:\git\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.exe
+D:\git\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.deps.json
+D:\git\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.runtimeconfig.json
+D:\git\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.dll
+D:\git\sulic\orai\tombok\tombok3\tombok3\bin\Debug\net6.0\tombok3.pdb
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\tombok3.genruntimeconfig.cache
+D:\git\sulic\orai\tombok\tombok3\tombok3\obj\Debug\net6.0\ref\tombok3.dll
