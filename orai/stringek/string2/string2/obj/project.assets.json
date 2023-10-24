@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf5\\hf5\\hf5.csproj",
-      "projectName": "hf5",
-      "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf5\\hf5\\hf5.csproj",
+      "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj",
+      "projectName": "string2",
+      "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj",
       "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-      "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf5\\hf5\\obj\\",
+      "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
