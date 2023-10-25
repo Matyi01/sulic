@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string3\\string3\\string3.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string3\\string3\\string3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj",
-        "projectName": "string2",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\string2.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string3\\string3\\string3.csproj",
+        "projectName": "string3",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string3\\string3\\string3.csproj",
         "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string2\\string2\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\stringek\\string3\\string3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
