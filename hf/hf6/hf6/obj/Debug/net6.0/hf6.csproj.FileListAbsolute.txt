@@ -1,0 +1,14 @@
+D:\git\sulic\hf\hf6\hf6\bin\Debug\net6.0\hf6.exe
+D:\git\sulic\hf\hf6\hf6\bin\Debug\net6.0\hf6.deps.json
+D:\git\sulic\hf\hf6\hf6\bin\Debug\net6.0\hf6.runtimeconfig.json
+D:\git\sulic\hf\hf6\hf6\bin\Debug\net6.0\hf6.dll
+D:\git\sulic\hf\hf6\hf6\bin\Debug\net6.0\hf6.pdb
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.AssemblyInfoInputs.cache
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.AssemblyInfo.cs
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.csproj.CoreCompileInputs.cache
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.dll
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\refint\hf6.dll
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.pdb
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\hf6.genruntimeconfig.cache
+D:\git\sulic\hf\hf6\hf6\obj\Debug\net6.0\ref\hf6.dll
