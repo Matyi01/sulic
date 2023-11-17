@@ -15,6 +15,25 @@ for (int i = 0; i < kartyak.Count; i++)
 }
 
 
+Dictionary<string, int> ertekek = new Dictionary<string, int>();
+
+for (int i = 0; i < kartyak.Count; i++)
+{
+    if (kartyak[i].IndexOf("jumbo") != -1 || kartyak[i].IndexOf("dáma") != -1 || kartyak[i].IndexOf("király") != -1)
+    {
+        ertekek.Add(kartyak[i], 10);
+    }
+    else if (kartyak[i].IndexOf("ász") != -1)
+    {
+        ertekek.Add(kartyak[i], 11);
+    }
+    else
+    {
+        ertekek.Add(kartyak[i], Convert.ToInt32(kartyak[i].Split(" ")[1]));
+    }
+}
+
+
 /*
 string randszin = szinek[rand.Next(szinek.Count)];
 string randszam = szamok[rand.Next(szamok.Count)];
