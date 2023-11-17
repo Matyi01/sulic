@@ -1,4 +1,5 @@
-﻿List<string> kartyak = new List<string>();
+﻿//kártyák ósszerakása
+List<string> kartyak = new List<string>();
 List<string> szinek = new List<string>() {"Treff", "Pikk", "Káró", "Kőr"};
 List<string> szamok = new List<string>() {"2", "3", "4", "5", "6", "7", "8", "9", "10", "jumbo", "dáma", "király", "ász"};
 Random rand = new Random();
@@ -9,12 +10,8 @@ for (int j = 0; j < szinek.Count; j++)
         kartyak.Add($"{szinek[j]} {szamok[k]}");
     }
 }
-for (int i = 0; i < kartyak.Count; i++)
-{
-    Console.WriteLine(kartyak[i]);
-}
 
-
+//értékadás a kártyáknak
 Dictionary<string, int> ertekek = new Dictionary<string, int>();
 
 for (int i = 0; i < kartyak.Count; i++)
@@ -33,8 +30,17 @@ for (int i = 0; i < kartyak.Count; i++)
     }
 }
 
+//pakli keverés
+for (int k = 0; k < 100; k++)
+{
+    for (int i = 0; i < ertekek.Count; i++)
+    {
+        int temprand = rand.Next(0, ertekek.Count);
+        string temp = kartyak[i];
+        kartyak[i] = kartyak[temprand];
+        kartyak[temprand] = temp;
+    }
+}
 
-/*
-string randszin = szinek[rand.Next(szinek.Count)];
-string randszam = szamok[rand.Next(szamok.Count)];
-*/
+
+//kártyaosztás
