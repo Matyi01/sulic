@@ -1,0 +1,14 @@
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.AssemblyInfoInputs.cache
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.AssemblyInfo.cs
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.csproj.CoreCompileInputs.cache
+H:\sulic\orai\list\lista2\lista2\bin\Debug\net6.0\lista2.exe
+H:\sulic\orai\list\lista2\lista2\bin\Debug\net6.0\lista2.deps.json
+H:\sulic\orai\list\lista2\lista2\bin\Debug\net6.0\lista2.runtimeconfig.json
+H:\sulic\orai\list\lista2\lista2\bin\Debug\net6.0\lista2.dll
+H:\sulic\orai\list\lista2\lista2\bin\Debug\net6.0\lista2.pdb
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.dll
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\refint\lista2.dll
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.pdb
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\lista2.genruntimeconfig.cache
+H:\sulic\orai\list\lista2\lista2\obj\Debug\net6.0\ref\lista2.dll
