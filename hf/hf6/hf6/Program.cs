@@ -54,7 +54,7 @@ for (int i = 0; i < szavak2.Length; i++)
     {
         if (szavak2[i].Length == 4 && szavak2[j].Length == 6 && szavak2[j].IndexOf(szavak2[i]) != -1)
         {
-            Console.WriteLine(szavak2[i] + szavak2[j]);
+            Console.WriteLine($"{szavak2[j]} eleme {szavak2[i]}");
         }
     }
 }

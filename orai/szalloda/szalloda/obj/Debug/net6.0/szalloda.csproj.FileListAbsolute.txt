@@ -1,0 +1,14 @@
+H:\sulic\orai\szalloda\szalloda\bin\Debug\net6.0\szalloda.exe
+H:\sulic\orai\szalloda\szalloda\bin\Debug\net6.0\szalloda.deps.json
+H:\sulic\orai\szalloda\szalloda\bin\Debug\net6.0\szalloda.runtimeconfig.json
+H:\sulic\orai\szalloda\szalloda\bin\Debug\net6.0\szalloda.dll
+H:\sulic\orai\szalloda\szalloda\bin\Debug\net6.0\szalloda.pdb
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.AssemblyInfoInputs.cache
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.AssemblyInfo.cs
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.csproj.CoreCompileInputs.cache
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.dll
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\refint\szalloda.dll
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.pdb
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\szalloda.genruntimeconfig.cache
+H:\sulic\orai\szalloda\szalloda\obj\Debug\net6.0\ref\szalloda.dll

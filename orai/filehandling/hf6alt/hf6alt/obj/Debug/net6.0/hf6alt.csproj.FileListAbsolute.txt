@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\bin\Debug\net6.0\hf6alt.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\bin\Debug\net6.0\hf6alt.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\bin\Debug\net6.0\hf6alt.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\bin\Debug\net6.0\hf6alt.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\bin\Debug\net6.0\hf6alt.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\refint\hf6alt.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\hf6alt.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\filehandling\hf6alt\hf6alt\obj\Debug\net6.0\ref\hf6alt.dll

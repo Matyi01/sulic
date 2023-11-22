@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\refint\BlackjacK.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\ref\BlackjacK.dll

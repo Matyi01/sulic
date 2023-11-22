@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\bin\Debug\net6.0\lista1.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\bin\Debug\net6.0\lista1.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\bin\Debug\net6.0\lista1.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\bin\Debug\net6.0\lista1.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\bin\Debug\net6.0\lista1.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\refint\lista1.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\lista1.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\list\lista1\lista1\obj\Debug\net6.0\ref\lista1.dll
