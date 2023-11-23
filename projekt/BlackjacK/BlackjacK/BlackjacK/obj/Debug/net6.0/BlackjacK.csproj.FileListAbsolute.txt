@@ -12,3 +12,17 @@ D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\Blac
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.pdb
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.genruntimeconfig.cache
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\ref\BlackjacK.dll
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.exe
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.deps.json
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.runtimeconfig.json
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.dll
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.pdb
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfoInputs.cache
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfo.cs
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.csproj.CoreCompileInputs.cache
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.dll
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\refint\BlackjacK.dll
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.pdb
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.genruntimeconfig.cache
+H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\ref\BlackjacK.dll
