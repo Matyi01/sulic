@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "Ltcx4PtMxSPYSHaKZDwMYH+WIYRbXCtdrg8Y/O15AhGYVQ1Kr9r0jxGPWihxGeWCpVK178rWji4BIw74yiqwNg==",
+=======
   "dgSpecHash": "VxbcfgZvlL0bIjR6kbILqJCoHzm7ioC3c9f8xNRPEsAASGNVdpwAa9dmPcUJIHWP5btk4umSRtG+QrqMVwxicw==",
+>>>>>>> 6dac793d96e57acb46bd6c0257a4128eb4d9570b
   "success": true,
   "projectFilePath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\hf\\hf6\\hf6\\hf6.csproj",
   "expectedPackageFiles": [],
