@@ -54,9 +54,9 @@ for (int i = 0; i < 2; i++)
     int tempjatekos = rand.Next(kartyak.Count);
     jatekos.Add(kartyak[tempjatekos]);
     kartyak.RemoveAt(tempjatekos);
-    if (jatekos.Count > 0)
+    if (jatekosertek == 11)
     {
-        if (jatekos[i].Split(" ")[1] == "ász")
+        if (jatekos[1].Split(" ")[1] == "ász")
         {
             jatekosertek += 1;
         }
@@ -64,6 +64,10 @@ for (int i = 0; i < 2; i++)
         {
             jatekosertek += ertekek[jatekos[i]];
         }
+    }
+    else
+    {
+        jatekosertek += ertekek[jatekos[i]];
     }
     Console.WriteLine("A játékos megkapta a {0} kártyát, össz érték: {1}", jatekos[i], jatekosertek);
     int temposzto = rand.Next(kartyak.Count);
@@ -141,7 +145,8 @@ while (true)
             Console.WriteLine("Ez nem jó válsz! ");
         }
     }
-    else if (jatekosertek > 21 && osztoertek > 21) {
+    else if (jatekosertek > 21 && osztoertek > 21) 
+    {
         Console.WriteLine("Döntetlen. ");
         Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
         break;
