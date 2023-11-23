@@ -141,8 +141,12 @@ while (true)
             Console.WriteLine("Ez nem jó válsz! ");
         }
     }
-
-    else if (osztoertek > 21)
+    else if (jatekosertek > 21 && osztoertek > 21) {
+        Console.WriteLine("Döntetlen. ");
+        Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+        break;
+    }
+    else if (jatekosertek > 21)
     {
         Console.WriteLine("Az osztó nyert. ");
         Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
