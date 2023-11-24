@@ -1,4 +1,6 @@
-﻿static int fizetendo(int erkezes, int tavozas, int szemely, bool etkezes)
+﻿using System.Reflection.Metadata;
+
+static int fizetendo(int erkezes, int tavozas, int szemely, bool etkezes)
 {
     int szobaar = 0;
     if (erkezes < 121) szobaar = 9000;
@@ -11,6 +13,17 @@
     return szobaar * ejdb;
 }
 
+static int melyikhonap(int napdb, List<int> holkezdodik)
+{
+    for (int i = 0; i < holkezdodik.Count; i++)
+    {
+        if (napdb < holkezdodik[i])
+        {
+            return i;
+        }
+    }
+    return 12;
+}
 
 
 StreamReader olvas = new StreamReader("pitypang.txt");
@@ -53,9 +66,32 @@ for (int i = 0; i < sorszam.Count; i++)
 
 Console.WriteLine("{0} ({1}) - {2}", vendeg[maxid], erkezes[maxid], maxej);
 
+int osszeg = 0;
 StreamWriter ir = new StreamWriter("bevetel.txt");
 for  (int i = 0; i < sorszam.Count; i++)
 {
-    ir.WriteLine("{0}:{1}", sorszam[i], fizetendo(erkezes[i], tavozas[i], vendegszam[i], etkezes[i]));
+    int fiz = fizetendo(erkezes[i], tavozas[i], vendegszam[i], etkezes[i]);
+    ir.WriteLine("{0}:{1}", sorszam[i], fiz);
+    osszeg += fiz;
 }
 ir.Close();
+
+Console.WriteLine("Az éves bevétel: {0:n0} Ft volt. ", osszeg);
+
+olvas = new StreamReader("honapok.txt");
+List<string> honapk = new List<string>();
+List<int> napszam = new List<int>();
+List<int> holkezdodik = new List<int>();
+while (olvas.EndOfStream)
+{
+    honapk.Add(olvas.ReadLine());
+    napszam.Add(Convert.ToInt32(olvas.ReadLine()));
+    holkezdodik.Add(Convert.ToInt32(olvas.ReadLine()));
+}
+olvas.Close();
+Dictionary<int, int> vendegejjszakak = new Dictionary<int, int>();
+for (int i = 0; i < sorszam.Count; i++)
+{
+    Console.WriteLine(erkezes[i] + " - " + tavozas[i]);
+}
+Console.WriteLine(melyikhonap(1, holkezdodik));
