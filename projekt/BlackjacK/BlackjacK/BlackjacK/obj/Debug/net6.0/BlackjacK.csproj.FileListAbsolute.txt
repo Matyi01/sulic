@@ -26,3 +26,17 @@ H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\refint\BlackjacK
 H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.pdb
 H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.genruntimeconfig.cache
 H:\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\ref\BlackjacK.dll
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.exe
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.deps.json
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.runtimeconfig.json
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.dll
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\bin\Debug\net6.0\BlackjacK.pdb
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfoInputs.cache
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.AssemblyInfo.cs
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.csproj.CoreCompileInputs.cache
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.dll
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\refint\BlackjacK.dll
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.pdb
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\BlackjacK.genruntimeconfig.cache
+D:\git\sulic\projekt\BlackjacK\BlackjacK\BlackjacK\obj\Debug\net6.0\ref\BlackjacK.dll

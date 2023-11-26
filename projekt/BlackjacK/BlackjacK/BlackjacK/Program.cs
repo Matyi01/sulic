@@ -96,13 +96,13 @@ while (true)
         osztoertek += ertekek[oszto[oszto.Count - 1]];
         Console.WriteLine("Az osztó megkapta a(z) {0}. kártyáját. ", osztodarab);
     }
-    else if (osztoertek > 21)
+    else if (osztoertek > 21 && jatekosertek > osztoertek)
     {
         Console.WriteLine("A játékos nyert. ");
         Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
         break;
     }
-    if (jatekosertek < 21)
+    if (jatekosertek <= 21)
     {
         Console.Write("Kérsz még kártyát? (igen/nem) ");
         string valasz = Console.ReadLine();
@@ -123,12 +123,22 @@ while (true)
         }
         else if (valasz == "nem")
         {
-            if (jatekosertek > osztoertek)
+            if (jatekosertek > osztoertek && jatekosertek < 22)
             {
                 Console.WriteLine("A játékos nyert. ");
                 Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
             }
-            else if (jatekosertek < osztoertek)
+            else if (jatekosertek < osztoertek && osztoertek < 22)
+            {
+                Console.WriteLine("Az osztó nyert. ");
+                Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+            }
+            else if (jatekosertek < 22 && osztoertek > 21)
+            {
+                Console.WriteLine("A játékos nyert. ");
+                Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
+            }
+            else if (osztoertek < 22 && jatekosertek > 21)
             {
                 Console.WriteLine("Az osztó nyert. ");
                 Console.WriteLine("Játékos: {0}, osztó: {1}", jatekosertek, osztoertek);
