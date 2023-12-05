@@ -117,9 +117,14 @@ for (int i = 1; i < 10; i++)
     }
 }
 
-for  (int i = 1;i < 10; i++)
+for (int i = 1; i < 10; i++)
 {
-    Console.WriteLine(szamok3[i].Count);
+    Console.WriteLine("{0}: {1} db",i ,szamok3[i].Count);
+}
 
-
+for (int i = 0;i < szamok.Count; i++)
+{
+    ir = new StreamWriter(szamok[i] / 10000 + ".csv", true);
+    ir.WriteLine(szamok[i]);
+    ir.Close();
 }
