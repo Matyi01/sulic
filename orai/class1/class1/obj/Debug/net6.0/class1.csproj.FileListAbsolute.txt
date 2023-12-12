@@ -1,0 +1,14 @@
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.AssemblyInfoInputs.cache
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.AssemblyInfo.cs
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.csproj.CoreCompileInputs.cache
+H:\sulic\orai\class1\class1\bin\Debug\net6.0\class1.exe
+H:\sulic\orai\class1\class1\bin\Debug\net6.0\class1.deps.json
+H:\sulic\orai\class1\class1\bin\Debug\net6.0\class1.runtimeconfig.json
+H:\sulic\orai\class1\class1\bin\Debug\net6.0\class1.dll
+H:\sulic\orai\class1\class1\bin\Debug\net6.0\class1.pdb
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.dll
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\refint\class1.dll
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.pdb
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\class1.genruntimeconfig.cache
+H:\sulic\orai\class1\class1\obj\Debug\net6.0\ref\class1.dll
