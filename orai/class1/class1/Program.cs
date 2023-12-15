@@ -1,4 +1,6 @@
-﻿class auto
+﻿using class1;
+
+class auto
 {
     public int kerekszam = 4;
 
@@ -40,5 +42,8 @@ class program
         Console.WriteLine(kocsi.tulajdonos);
         kocsi.tulajdonos = "Bence";
         Console.WriteLine(kocsi.tulajdonos);
+
+        Laci laci = new Laci();
+        laci.sug();
     }
 }
