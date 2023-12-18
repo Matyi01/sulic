@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JbOJf3ORwAaMXTtNfKNJ/jynlBVA3YNMc8TWTXG/lvRx4tuynSuv0dPRmJ2Go8idzCCiipSmqCxpDno/PR7iNg==",
+  "dgSpecHash": "1pNfkw6+ZBNNRpwaoUn362W0E238E7o5T1VZvrYUBv5yn7WVyGpzq6eEfS6+ZnYLWLcNco5BzZ8vm23XDpS/jQ==",
   "success": true,
-  "projectFilePath": "H:\\sulic\\doga1\\doga1\\doga1\\doga1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\git\\sulic\\doga1\\doga1\\doga1\\doga1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holcz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
