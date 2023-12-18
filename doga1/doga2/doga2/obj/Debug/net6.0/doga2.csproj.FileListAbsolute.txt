@@ -1,0 +1,14 @@
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.AssemblyInfoInputs.cache
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.AssemblyInfo.cs
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\doga2\doga2\bin\Debug\net6.0\doga2.exe
+H:\sulic\doga1\doga2\doga2\bin\Debug\net6.0\doga2.deps.json
+H:\sulic\doga1\doga2\doga2\bin\Debug\net6.0\doga2.runtimeconfig.json
+H:\sulic\doga1\doga2\doga2\bin\Debug\net6.0\doga2.dll
+H:\sulic\doga1\doga2\doga2\bin\Debug\net6.0\doga2.pdb
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.dll
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\refint\doga2.dll
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.pdb
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\doga2.genruntimeconfig.cache
+H:\sulic\doga1\doga2\doga2\obj\Debug\net6.0\ref\doga2.dll

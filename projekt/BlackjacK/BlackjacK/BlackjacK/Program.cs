@@ -1,6 +1,6 @@
 ﻿//kártyák összerakása
 List<string> kartyak = new List<string>();
-List<string> szinek = new List<string>() { "Treff", "Pikk", "Káró", "Kőr" };
+List<string> szinek = new List<string>() { "Treff", "Pikk", "Káró", "Kőr"};
 List<string> szamok = new List<string>() { "2", "3", "4", "5", "6", "7", "8", "9", "10", "jumbo", "dáma", "király", "ász" };
 Random rand = new Random();
 for (int j = 0; j < szinek.Count; j++)

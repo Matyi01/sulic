@@ -1,0 +1,14 @@
+H:\sulic\orai\dogagyak\dogagyak\bin\Debug\net6.0\dogagyak.exe
+H:\sulic\orai\dogagyak\dogagyak\bin\Debug\net6.0\dogagyak.deps.json
+H:\sulic\orai\dogagyak\dogagyak\bin\Debug\net6.0\dogagyak.runtimeconfig.json
+H:\sulic\orai\dogagyak\dogagyak\bin\Debug\net6.0\dogagyak.dll
+H:\sulic\orai\dogagyak\dogagyak\bin\Debug\net6.0\dogagyak.pdb
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.AssemblyInfoInputs.cache
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.AssemblyInfo.cs
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.csproj.CoreCompileInputs.cache
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.dll
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\refint\dogagyak.dll
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.pdb
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\dogagyak.genruntimeconfig.cache
+H:\sulic\orai\dogagyak\dogagyak\obj\Debug\net6.0\ref\dogagyak.dll
