@@ -1,0 +1,14 @@
+H:\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.exe
+H:\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.deps.json
+H:\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.runtimeconfig.json
+H:\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.dll
+H:\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.pdb
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.dll
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\refint\OOP2.dll
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.pdb
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
+H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\ref\OOP2.dll
