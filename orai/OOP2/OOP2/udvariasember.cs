@@ -14,19 +14,71 @@ namespace OOP2
         }
         public void koszon()
         {
-            Console.WriteLine("Szia uram!");
+            Random rand = new Random();
+            int x = rand.Next(0, 3);
+            if (x == 0)
+            {
+                Console.WriteLine("Szia uram!");
+            }
+            else if (x == 1)
+            {
+                Console.WriteLine("Szia uraság!");
+            }
+            else
+            {
+                Console.WriteLine("Jó napot!");
+            }
         }
         public void koszon(ember embervaltozonev)
         {
-            Console.WriteLine("Szia {0} uram!", embervaltozonev.teljesnev);
+            Random rand = new Random();
+            int x = rand.Next(0, 3);
+            if (x == 0)
+            {
+                Console.WriteLine("Szia {0} uram!", embervaltozonev.teljesnev);
+            }
+            else if (x == 1)
+            {
+                Console.WriteLine("Szia {0} uraság!", embervaltozonev.teljesnev);
+            }
+            else
+            {
+                Console.WriteLine("Jó napot {0}!", embervaltozonev.teljesnev);
+            }
         }
         public void koszonnevvel()
         {
-            Console.WriteLine("Szia uram! {0} vagyok", teljesnev);
+            Random rand = new Random();
+            int x = rand.Next(0, 3);
+            if (x == 0)
+            {
+                Console.WriteLine("Szia uram! {0} vagyok", teljesnev);
+            }
+            else if (x == 1)
+            {
+                Console.WriteLine("Szia uraság! {0} vagyok", teljesnev);
+            }
+            else
+            {
+                Console.WriteLine("Jó napot! {0} vagyok", teljesnev);
+            }
         }
         public void koszonnevvel(ember embervaltozonev)
         {
-            Console.WriteLine("Szia {0} uram! {1} vagyok", embervaltozonev.teljesnev, teljesnev);
+            Random rand = new Random();
+            int x = rand.Next(0, 3);
+            if (x == 0)
+            {
+                Console.WriteLine("Szia {0} uram! {1} vagyok", embervaltozonev.teljesnev, teljesnev);
+            }
+            else if (x == 1)
+            {
+                Console.WriteLine("Szia {0} uraság! {1} vagyok", embervaltozonev.teljesnev, teljesnev);
+            }
+            else
+            {
+                Console.WriteLine("Jó napot {0}! {1} vagyok", embervaltozonev.teljesnev, teljesnev);
+            }
         }
     }
 }

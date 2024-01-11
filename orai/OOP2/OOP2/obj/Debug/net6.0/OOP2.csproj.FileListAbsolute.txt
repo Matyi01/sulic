@@ -12,3 +12,17 @@ H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\refint\OOP2.dll
 H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.pdb
 H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
 H:\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\ref\OOP2.dll
+D:\git\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.exe
+D:\git\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.deps.json
+D:\git\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.runtimeconfig.json
+D:\git\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.dll
+D:\git\sulic\orai\OOP2\OOP2\bin\Debug\net6.0\OOP2.pdb
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.dll
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\refint\OOP2.dll
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.pdb
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
+D:\git\sulic\orai\OOP2\OOP2\obj\Debug\net6.0\ref\OOP2.dll

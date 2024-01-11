@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\holczerm21\\.nuget\\packages\\": {}
+    "C:\\Users\\holcz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\sulic\\orai\\fejvagyiras\\fejvagyiras\\fejvagyiras.csproj",
+      "projectUniqueName": "D:\\git\\sulic\\orai\\fejvagyiras\\fejvagyiras\\fejvagyiras.csproj",
       "projectName": "fejvagyiras",
-      "projectPath": "H:\\sulic\\orai\\fejvagyiras\\fejvagyiras\\fejvagyiras.csproj",
-      "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-      "outputPath": "H:\\sulic\\orai\\fejvagyiras\\fejvagyiras\\obj\\",
+      "projectPath": "D:\\git\\sulic\\orai\\fejvagyiras\\fejvagyiras\\fejvagyiras.csproj",
+      "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
+      "outputPath": "D:\\git\\sulic\\orai\\fejvagyiras\\fejvagyiras\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,3 +12,17 @@ H:\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\refint\fejvagyiras.dll
 H:\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.pdb
 H:\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.genruntimeconfig.cache
 H:\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\ref\fejvagyiras.dll
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\bin\Debug\net6.0\fejvagyiras.exe
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\bin\Debug\net6.0\fejvagyiras.deps.json
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\bin\Debug\net6.0\fejvagyiras.runtimeconfig.json
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\bin\Debug\net6.0\fejvagyiras.dll
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\bin\Debug\net6.0\fejvagyiras.pdb
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.AssemblyInfoInputs.cache
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.AssemblyInfo.cs
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.csproj.CoreCompileInputs.cache
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.dll
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\refint\fejvagyiras.dll
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.pdb
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\fejvagyiras.genruntimeconfig.cache
+D:\git\sulic\orai\fejvagyiras\fejvagyiras\obj\Debug\net6.0\ref\fejvagyiras.dll

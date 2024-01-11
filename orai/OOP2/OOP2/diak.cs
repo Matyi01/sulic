@@ -27,7 +27,20 @@ namespace OOP2
         }
         public void koszon(diak diakvaltozo)
         {
-            Console.WriteLine("Csá {0}", diakvaltozo.keresztnev);
+            Random rand = new Random();
+            int x = rand.Next(0, 3);
+            if (x == 0)
+            {
+                Console.WriteLine("Csá {0}!", diakvaltozo.keresztnev);
+            }
+            else if (x == 1)
+            {
+                Console.WriteLine("Cső {0}!", diakvaltozo.keresztnev);
+            }
+            else
+            {
+                Console.WriteLine("Szevasz {0}!", diakvaltozo.keresztnev);
+            }
         }
     }
 }
