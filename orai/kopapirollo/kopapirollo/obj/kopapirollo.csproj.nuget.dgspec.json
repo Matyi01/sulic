@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\sulic\\orai\\OOP2\\OOP2\\OOP2.csproj": {}
+    "H:\\sulic\\orai\\kopapirollo\\kopapirollo\\kopapirollo.csproj": {}
   },
   "projects": {
-    "H:\\sulic\\orai\\OOP2\\OOP2\\OOP2.csproj": {
+    "H:\\sulic\\orai\\kopapirollo\\kopapirollo\\kopapirollo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\sulic\\orai\\OOP2\\OOP2\\OOP2.csproj",
-        "projectName": "OOP2",
-        "projectPath": "H:\\sulic\\orai\\OOP2\\OOP2\\OOP2.csproj",
+        "projectUniqueName": "H:\\sulic\\orai\\kopapirollo\\kopapirollo\\kopapirollo.csproj",
+        "projectName": "kopapirollo",
+        "projectPath": "H:\\sulic\\orai\\kopapirollo\\kopapirollo\\kopapirollo.csproj",
         "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-        "outputPath": "H:\\sulic\\orai\\OOP2\\OOP2\\obj\\",
+        "outputPath": "H:\\sulic\\orai\\kopapirollo\\kopapirollo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
