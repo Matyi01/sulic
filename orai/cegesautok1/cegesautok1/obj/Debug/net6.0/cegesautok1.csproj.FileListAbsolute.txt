@@ -1,0 +1,14 @@
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.AssemblyInfoInputs.cache
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.AssemblyInfo.cs
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.csproj.CoreCompileInputs.cache
+H:\sulic\orai\cegesautok1\cegesautok1\bin\Debug\net6.0\cegesautok1.exe
+H:\sulic\orai\cegesautok1\cegesautok1\bin\Debug\net6.0\cegesautok1.deps.json
+H:\sulic\orai\cegesautok1\cegesautok1\bin\Debug\net6.0\cegesautok1.runtimeconfig.json
+H:\sulic\orai\cegesautok1\cegesautok1\bin\Debug\net6.0\cegesautok1.dll
+H:\sulic\orai\cegesautok1\cegesautok1\bin\Debug\net6.0\cegesautok1.pdb
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.dll
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\refint\cegesautok1.dll
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.pdb
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\cegesautok1.genruntimeconfig.cache
+H:\sulic\orai\cegesautok1\cegesautok1\obj\Debug\net6.0\ref\cegesautok1.dll
