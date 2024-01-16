@@ -29,5 +29,9 @@ namespace cegesautok1
         {
             return parkol;
         }
+        public string f3sor() 
+        {
+            return ido+" "+rendszam+" "+szemelyid+(parkol?" be":" ki");
+        }
     }
 }
