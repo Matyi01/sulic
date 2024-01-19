@@ -1,0 +1,14 @@
+H:\sulic\orai\helsinki\helsinki\bin\Debug\net6.0\helsinki1952.exe
+H:\sulic\orai\helsinki\helsinki\bin\Debug\net6.0\helsinki1952.deps.json
+H:\sulic\orai\helsinki\helsinki\bin\Debug\net6.0\helsinki1952.runtimeconfig.json
+H:\sulic\orai\helsinki\helsinki\bin\Debug\net6.0\helsinki1952.dll
+H:\sulic\orai\helsinki\helsinki\bin\Debug\net6.0\helsinki1952.pdb
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.AssemblyInfoInputs.cache
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.AssemblyInfo.cs
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.csproj.CoreCompileInputs.cache
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.dll
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\refint\helsinki1952.dll
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.pdb
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\helsinki1952.genruntimeconfig.cache
+H:\sulic\orai\helsinki\helsinki\obj\Debug\net6.0\ref\helsinki1952.dll
