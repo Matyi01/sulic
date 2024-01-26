@@ -1,0 +1,14 @@
+H:\sulic\orai\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.exe
+H:\sulic\orai\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.deps.json
+H:\sulic\orai\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.runtimeconfig.json
+H:\sulic\orai\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.dll
+H:\sulic\orai\Uzemanyag\Uzemanyag\bin\Debug\net6.0\Uzemanyag.pdb
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfoInputs.cache
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfo.cs
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.csproj.CoreCompileInputs.cache
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.dll
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\refint\Uzemanyag.dll
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.pdb
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\Uzemanyag.genruntimeconfig.cache
+H:\sulic\orai\Uzemanyag\Uzemanyag\obj\Debug\net6.0\ref\Uzemanyag.dll
