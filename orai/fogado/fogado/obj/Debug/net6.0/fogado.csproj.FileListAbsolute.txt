@@ -1,0 +1,14 @@
+H:\sulic\orai\fogado\fogado\bin\Debug\net6.0\fogado.exe
+H:\sulic\orai\fogado\fogado\bin\Debug\net6.0\fogado.deps.json
+H:\sulic\orai\fogado\fogado\bin\Debug\net6.0\fogado.runtimeconfig.json
+H:\sulic\orai\fogado\fogado\bin\Debug\net6.0\fogado.dll
+H:\sulic\orai\fogado\fogado\bin\Debug\net6.0\fogado.pdb
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.AssemblyInfoInputs.cache
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.AssemblyInfo.cs
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.csproj.CoreCompileInputs.cache
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.dll
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\refint\fogado.dll
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.pdb
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\fogado.genruntimeconfig.cache
+H:\sulic\orai\fogado\fogado\obj\Debug\net6.0\ref\fogado.dll
