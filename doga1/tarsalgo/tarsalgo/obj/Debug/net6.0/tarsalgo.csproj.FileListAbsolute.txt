@@ -1,0 +1,14 @@
+H:\sulic\doga1\tarsalgo\tarsalgo\bin\Debug\net6.0\tarsalgo.exe
+H:\sulic\doga1\tarsalgo\tarsalgo\bin\Debug\net6.0\tarsalgo.deps.json
+H:\sulic\doga1\tarsalgo\tarsalgo\bin\Debug\net6.0\tarsalgo.runtimeconfig.json
+H:\sulic\doga1\tarsalgo\tarsalgo\bin\Debug\net6.0\tarsalgo.dll
+H:\sulic\doga1\tarsalgo\tarsalgo\bin\Debug\net6.0\tarsalgo.pdb
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.AssemblyInfoInputs.cache
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.AssemblyInfo.cs
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.dll
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\refint\tarsalgo.dll
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.pdb
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\tarsalgo.genruntimeconfig.cache
+H:\sulic\doga1\tarsalgo\tarsalgo\obj\Debug\net6.0\ref\tarsalgo.dll
