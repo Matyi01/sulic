@@ -44,7 +44,10 @@ for (int i = 0; i < elemek.Count; i++)
 StreamWriter ir = new StreamWriter("athaladas.txt");
 for (int i = 1; i < athaladasok.Length; i++)
 {
-    ir.WriteLine(i + " " + athaladasok[i]);
+    if (athaladasok[i] > 0)
+    {
+        ir.WriteLine(i + " " + athaladasok[i]);
+    }
 }
 ir.Close();
 
@@ -74,6 +77,7 @@ for (int i = 0; i < elemek.Count; i++)
     }
     if (hanyanvannakbennt > hanyanvannakbenntmax)
     {
+        hanyanvannakbenntmax = hanyanvannakbennt;
         orapercmax = elemek[i].oraperc;
     }
 }

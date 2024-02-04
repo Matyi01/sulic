@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarsalgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b746ce8adba081599aedd471f2c8a1029cfbe257")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarsalgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarsalgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
