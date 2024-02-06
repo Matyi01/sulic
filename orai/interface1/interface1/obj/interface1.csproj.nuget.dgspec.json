@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\interface1\\interface1\\interface1.csproj": {}
   },
   "projects": {
-    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\interface1\\interface1\\interface1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
-        "projectName": "tarsalgo",
-        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\interface1\\interface1\\interface1.csproj",
+        "projectName": "interface1",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\interface1\\interface1\\interface1.csproj",
         "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\interface1\\interface1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
