@@ -24,5 +24,27 @@ namespace probaWPF
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            if (kep.Visibility == Visibility.Visible)
+            {
+                kep.Visibility = Visibility.Hidden;
+            }
+            else
+            {
+                kep.Visibility = Visibility.Visible;
+            }
+        }
+
+        private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
+        {
+            kep.Opacity = csuszka.Value;
+        }
     }
 }

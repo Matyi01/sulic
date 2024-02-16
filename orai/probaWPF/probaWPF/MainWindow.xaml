@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="Főablak" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="391,198,0,0" VerticalAlignment="Top"/>
-
+        <Image x:Name="kep" HorizontalAlignment="Left" Height="100" Margin="200,217,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
+        <Button Content="Kép kapcsoló" HorizontalAlignment="Center" Height="44" Margin="0,240,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click_1"/>
+        <Slider x:Name="csuszka" HorizontalAlignment="Left" Margin="226,369,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Slider_ValueChanged" Maximum="1"/>
     </Grid>
 </Window>
