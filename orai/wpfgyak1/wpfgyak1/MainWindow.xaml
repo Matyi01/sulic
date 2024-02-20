@@ -1,0 +1,19 @@
+﻿<Window x:Class="wpfgyak1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfgyak1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="115,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="115,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Első szám" HorizontalAlignment="Left" Margin="25,28,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.44,-0.484"/>
+        <Label Content="Második szám" HorizontalAlignment="Left" Margin="25,72,0,0" VerticalAlignment="Top"/>
+        <Button Content="Összead" HorizontalAlignment="Left" Height="19" Margin="25,108,0,0" VerticalAlignment="Top" Width="61" Click="Button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="21" Margin="25,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="61"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Height="106" Margin="25,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="247"/>
+
+    </Grid>
+</Window>

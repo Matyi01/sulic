@@ -24,29 +24,37 @@ namespace wpfhf2
         {
             InitializeComponent();
         }
-
+        double[] ertekek = new double[4] {1, 1, 1, 1 };
         private void Slider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            kep1.Opacity = slider1.Value * slider4.Value;
-            kep2.Opacity = slider1.Value * slider2.Value;
+            ertekek[0] = ((Slider)sender).Value;
+
+            kep1.Opacity = ertekek[0] * (1-ertekek[3]);
+            kep2.Opacity = ertekek[0] * (1-ertekek[1]);
         }
 
-        private void Slider_ValueChanged_1(object sender, RoutedPropertyChangedEventArgs<double> e)
+        private void Slider1_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            kep3.Opacity = slider3.Value * slider2.Value;
-            kep4.Opacity = slider3.Value * slider4.Value;
+            ertekek[1] = ((Slider)sender).Value;
+
+            kep3.Opacity = ertekek[2] * (1-ertekek[1]);
+            kep4.Opacity = ertekek[2] * (1-ertekek[3]);
         }
 
         private void slider2_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            kep3.Opacity = slider2.Value * slider3.Value;
-            kep2.Opacity = slider2.Value * slider1.Value;
+            ertekek[2] = ((Slider)sender).Value;
+
+            kep3.Opacity = ertekek[1] * (1-ertekek[2]);
+            kep2.Opacity = ertekek[1] * (1-ertekek[0]);
         }
 
         private void slider4_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            kep1.Opacity = slider4.Value * slider1.Value;
-            kep4.Opacity = slider4.Value * slider3.Value;
+            ertekek[3] = ((Slider)sender).Value;
+
+            kep1.Opacity = ertekek[3] * (1-ertekek[0]);
+            kep4.Opacity = ertekek[3] * (1-ertekek[2]);
         }
 
 

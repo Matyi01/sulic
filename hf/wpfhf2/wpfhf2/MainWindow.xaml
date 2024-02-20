@@ -7,14 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Image x:Name="kep1" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
-        <Image x:Name="kep2" HorizontalAlignment="Left" Height="100" Margin="690,10,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
-        <Image x:Name="kep3" HorizontalAlignment="Left" Height="100" Margin="690,324,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
-        <Image x:Name="kep4" HorizontalAlignment="Left" Height="100" Margin="10,324,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
-        <Slider x:Name="slider1" HorizontalAlignment="Left" Margin="347,51,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Slider_ValueChanged" Maximum="1" LargeChange="0.1"/>
-        <Slider x:Name="slider3" HorizontalAlignment="Center" Margin="0,365,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Slider_ValueChanged_1" Maximum="1" LargeChange="0.1"/>
-        <Slider x:Name="slider2" HorizontalAlignment="Left" Margin="730,0,0,0" VerticalAlignment="Center" Width="18" Orientation="Vertical" Height="120" ValueChanged="slider2_ValueChanged" Maximum="1" LargeChange="0.1"/>
-        <Slider x:Name="slider4" HorizontalAlignment="Left" Margin="51,0,0,0" VerticalAlignment="Center" Width="18" Height="120" Orientation="Vertical" ValueChanged="slider4_ValueChanged" Maximum="1" LargeChange="0.1"/>
+        <Image x:Name="kep1" HorizontalAlignment="Left" Height="100" Margin="51,27,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
+        <Image x:Name="kep2" HorizontalAlignment="Left" Height="100" Margin="649,27,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
+        <Image x:Name="kep3" HorizontalAlignment="Left" Height="100" Margin="649,302,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
+        <Image x:Name="kep4" HorizontalAlignment="Left" Height="100" Margin="51,302,0,0" VerticalAlignment="Top" Width="100" Source="/4.jpg"/>
+        <Slider x:Name="slider1" HorizontalAlignment="Center" Margin="0,68,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Slider_ValueChanged" Maximum="1" LargeChange="0.1" Value="1"/>
+        <Slider x:Name="slider3" HorizontalAlignment="Center" Margin="0,343,0,0" VerticalAlignment="Top" Width="120" ValueChanged="Slider1_ValueChanged" LargeChange="0.1" Maximum="1" Value="1"/>
+        <Slider x:Name="slider2" HorizontalAlignment="Left" Margin="690,0,0,0" VerticalAlignment="Center" Width="18" Orientation="Vertical" Height="120" ValueChanged="slider2_ValueChanged" Maximum="1" LargeChange="0.1" Value="1"/>
+        <Slider x:Name="slider4" HorizontalAlignment="Left" Margin="92,0,0,0" VerticalAlignment="Center" Width="18" Height="120" Orientation="Vertical" ValueChanged="slider4_ValueChanged" Maximum="1" LargeChange="0.1" Value="1"/>
 
     </Grid>
 </Window>
