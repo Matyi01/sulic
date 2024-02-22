@@ -30,6 +30,8 @@ namespace wpfgyak1
             int osszeg = Convert.ToInt32(textBox.Text) + Convert.ToInt32(textBox1.Text);
             textBlock.Text = Convert.ToString(osszeg);
             textBlock1.Text = textBox.Text + " + " + textBox1.Text + " = " + osszeg.ToString() + "\n" + textBlock1.Text;
+            textBox.Text = "";
+            textBox1.Text = "";
         }
     }
 }
