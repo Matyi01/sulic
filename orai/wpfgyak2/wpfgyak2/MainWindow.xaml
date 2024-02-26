@@ -13,7 +13,7 @@
         <TextBox x:Name="textbox" HorizontalAlignment="Left" Margin="96,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="textbox1" HorizontalAlignment="Left" Margin="96,45,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="textbox2" HorizontalAlignment="Left" Margin="96,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
-        <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="164" Margin="250,0,0,0" VerticalAlignment="Center" Width="250" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="164" Margin="250,0,0,0" VerticalAlignment="Center" Width="250" d:ItemsSource="{d:SampleData ItemCount=5}" SelectionChanged="listbox_SelectionChanged" PreviewMouseDoubleClick="listbox_dblclick"/>
         <Button x:Name="button" Content="Mentés" HorizontalAlignment="Left" Height="23" Margin="165,114,0,0" VerticalAlignment="Top" Width="51" Click="button_Click"/>
     </Grid>
 </Window>
