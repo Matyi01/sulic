@@ -24,7 +24,6 @@ namespace wpfgyak2
         {
             InitializeComponent();
         }
-
         private void button_Click(object sender, RoutedEventArgs e)
         {
             string nev = textbox.Text;
@@ -37,7 +36,15 @@ namespace wpfgyak2
             }
             else
             {
-                listbox.Items.Add(nev + ", " + szulhely + ", " + eletkor);
+                if (uzenet == "Add vissza az ezresemet")
+                {
+                    listbox.Items[listbox.SelectedIndex] = nev + ", " + szulhely + ", " + eletkor;
+                    uzenet = "";
+                }
+                else
+                {
+                    listbox.Items.Add(nev + ", " + szulhely + ", " + eletkor);
+                }
 
                 textbox.Text = "";
                 textbox1.Text = "";
@@ -45,23 +52,19 @@ namespace wpfgyak2
             }
 
         }
-
         private void listbox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }
-
+        string uzenet = "";
         private void listbox_dblclick(object sender, MouseButtonEventArgs e)
         {
-            var item = ItemsControl.ContainerFromElement(sender as ListBox, e.OriginalSource as DependencyObject) as ListBoxItem;
-            if (item != null)
-            {
-                //System.Windows.Controls.ListBoxItem:
-                string[] sor = item.ToString().Split(", ");
-                textbox.Text = sor[0].Substring(37);
-                textbox1.Text = sor[1];
-                textbox2.Text = sor[2];
-            }
+            string[] sor = ((ListBox)sender).SelectedItem.ToString().Split(", ");
+            textbox.Text = sor[0];
+            textbox1.Text = sor[1];
+            textbox2.Text = sor[2];
+
+            uzenet = "Add vissza az ezresemet";
         }
     }
 }

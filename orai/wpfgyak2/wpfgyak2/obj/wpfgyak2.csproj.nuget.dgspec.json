@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj": {}
   },
   "projects": {
-    "D:\\git\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj",
         "projectName": "wpfgyak2",
-        "projectPath": "D:\\git\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj",
-        "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\sulic\\orai\\wpfgyak2\\wpfgyak2\\obj\\",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\wpfgyak2\\wpfgyak2\\wpfgyak2.csproj",
+        "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\wpfgyak2\\wpfgyak2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
