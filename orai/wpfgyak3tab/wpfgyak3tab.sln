@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfgyak3tab", "wpfgyak3tab\wpfgyak3tab.csproj", "{AE0D912B-39DB-4480-880F-25E83C94278C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE0D912B-39DB-4480-880F-25E83C94278C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0D912B-39DB-4480-880F-25E83C94278C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0D912B-39DB-4480-880F-25E83C94278C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0D912B-39DB-4480-880F-25E83C94278C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E99848C8-132F-4A53-B9F5-8F248019B8EB}
+	EndGlobalSection
+EndGlobal
