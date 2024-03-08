@@ -1,0 +1,15 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\bin\Debug\sulipepawpf1.exe.config
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\bin\Debug\sulipepawpf1.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\bin\Debug\sulipepawpf1.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.csproj.AssemblyReference.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\MainWindow.g.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\App.g.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1_MarkupCompile.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1_MarkupCompile.lref
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\MainWindow.baml
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.g.resources
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.Properties.Resources.resources
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.csproj.GenerateResource.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\sulipepawpf1\sulipepawpf1\obj\Debug\sulipepawpf1.pdb
