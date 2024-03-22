@@ -11,6 +11,8 @@
         <Button x:Name="button" Content="2. feladat" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="60" Click="button_Click"/>
         <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="75,52,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <Button x:Name="button1" Content="3. feladat" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="60" Click="button1_Click"/>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="75,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Button x:Name="button2" Content="6. feladat" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="60" Click="button2_Click"/>
 
     </Grid>
 </Window>

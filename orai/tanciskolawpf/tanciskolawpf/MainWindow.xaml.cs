@@ -63,5 +63,40 @@ namespace tanciskolawpf
             }
             return db;
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            List<string> lanyok = new List<string>();
+            List<string> fiuk = new List<string>();
+
+            for (int i = 0; i < tancok.Count; i++)
+            {
+                if (!lanyok.Contains(tancok[i].lany))
+                {
+                    lanyok.Add(tancok[i].lany);
+                }
+                if (!fiuk.Contains(tancok[i].fiu))
+                {
+                    fiuk.Add(tancok[i].fiu);
+                }
+            }
+
+            StreamWriter ir = new StreamWriter("szereplok.txt");
+            ir.WriteLine("lanyok: {0}", String.Join(", ", lanyok));
+            ir.WriteLine("Fiúk: {0}", String.Join(", ", fiuk));
+            ir.Close();
+            //xml-ben kiiras file-ba
+            /*
+            <?xml version="1.0" encoding="UTF-8"?>
+
+            <tancosok>
+                <fiuk>
+                    <nev>...</nev>
+                    <nev>...</nev>
+                    <nev>...</nev>
+                </fiuk>
+            </tancosok>
+             */
+        }
     }
 }
