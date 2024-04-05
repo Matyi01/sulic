@@ -85,6 +85,19 @@ namespace tanciskolawpf
             ir.WriteLine("lanyok: {0}", String.Join(", ", lanyok));
             ir.WriteLine("Fiúk: {0}", String.Join(", ", fiuk));
             ir.Close();
+
+            ir = new StreamWriter("szereplok.xml");
+            ir.WriteLine("<?xml version=\"1.0\" encoding=\"UTF-8\"?>");
+            ir.WriteLine("<tancosok>");
+            ir.WriteLine("\t<fiuk>");
+            ir.WriteLine("\t\t<nev>{0}</nev>", String.Join("</nev>\r\n\t\t<nev>", fiuk));
+            ir.WriteLine("\t</fiuk>");
+            ir.WriteLine("\t<lanyok>");
+            ir.WriteLine("\t\t<nev>{0}</nev>", String.Join("</nev>\r\n\t\t<nev>", lanyok));
+            ir.WriteLine("\t</lanyok>");
+            ir.WriteLine("</tancosok>");
+            ir.Close();
+
             //xml-ben kiiras file-ba
             /*
             <?xml version="1.0" encoding="UTF-8"?>
@@ -97,6 +110,35 @@ namespace tanciskolawpf
                 </fiuk>
             </tancosok>
              */
+        }
+        private void button3_Click(object sender, RoutedEventArgs e)
+        {
+            Dictionary<string, int> statfiuk = new Dictionary<string, int>();
+            Dictionary<string, int> statlanyok = new Dictionary<string, int>();
+
+            for (int i = 0; i < tancok.Count; i++)
+            {
+                if (!statfiuk.ContainsKey(tancok[i].fiu))
+                {
+                    statfiuk.Add(tancok[i].fiu, 1);
+                }
+                else
+                {
+                    statfiuk[tancok[i].fiu] += 1;
+                }
+                if (!statlanyok.ContainsKey(tancok[i].lany))
+                {
+                    statlanyok.Add(tancok[i].lany, 1);
+                }
+                else
+                {
+                    statlanyok[tancok[i].lany] += 1;
+                }
+            }
+
+            int fiukmax = statfiuk.Values.Max();
+
+            //textBlock3.Text = 
         }
     }
 }

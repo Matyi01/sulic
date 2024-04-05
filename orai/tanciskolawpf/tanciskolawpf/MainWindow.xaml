@@ -13,6 +13,8 @@
         <Button x:Name="button1" Content="3. feladat" HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" Width="60" Click="button1_Click"/>
         <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="75,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
         <Button x:Name="button2" Content="6. feladat" HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" Width="60" Click="button2_Click"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="75,132,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <Button x:Name="button3" Content="7. feladat" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="60" Click="button3_Click"/>
 
     </Grid>
 </Window>
