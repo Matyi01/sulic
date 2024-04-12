@@ -10,8 +10,8 @@
         <TabControl x:Name="tabControl">
             <TabItem Header="1, 3. feladat">
                 <Grid Background="#FFE5E5E5">
-                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="80,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
-                    <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="80,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="80,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60" TextChanged="textBox_TextChanged"/>
+                    <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="80,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60" TextChanged="textBox_TextChanged"/>
                     <Separator HorizontalAlignment="Left" Margin="80,50,0,0" VerticalAlignment="Top" Height="10" Width="60"/>
                     <Label x:Name="label" Content="=" HorizontalAlignment="Left" Margin="140,33,0,0" VerticalAlignment="Top" FontSize="20" Height="44"/>
                     <Label x:Name="label1" Content="Számláló:" HorizontalAlignment="Left" Margin="21,28,0,0" VerticalAlignment="Top"/>
@@ -27,10 +27,10 @@
                     <TextBlock x:Name="textBlock4" HorizontalAlignment="Left" Margin="164,44,0,0" TextWrapping="Wrap" Text="eredmény" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="4. feladat">
+            <TabItem x:Name="tab4" Header="4. feladat" IsEnabled="False" GotFocus="tab4_GotFocus">
                 <Grid Background="#FFE5E5E5">
-                    <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="80,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
-                    <TextBox x:Name="textBox3" HorizontalAlignment="Left" Margin="80,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60"/>
+                    <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="80,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60" TextChanged="textBox2_TextChanged"/>
+                    <TextBox x:Name="textBox3" HorizontalAlignment="Left" Margin="80,60,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="60" TextChanged="textBox2_TextChanged"/>
                     <Separator HorizontalAlignment="Left" Margin="80,50,0,0" VerticalAlignment="Top" Height="10" Width="60"/>
                     <Label x:Name="label6" Content="Számláló:" HorizontalAlignment="Left" Margin="21,28,0,0" VerticalAlignment="Top"/>
                     <Label x:Name="label7" Content="Nevező:" HorizontalAlignment="Left" Margin="21,56,0,0" VerticalAlignment="Top"/>
@@ -47,7 +47,7 @@
                     <TextBlock x:Name="textBlock1_Copy2" HorizontalAlignment="Left" Margin="188,136,0,0" TextWrapping="Wrap" Text="nevező" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="6. feladat">
+            <TabItem Header="6. feladat" IsEnabled="False">
                 <Grid Background="#FFE5E5E5">
                     <Separator HorizontalAlignment="Left" Margin="56,97,0,0" VerticalAlignment="Top" Height="6" Width="60"/>
                     <TextBlock x:Name="textBlock_Copy3" HorizontalAlignment="Left" Margin="63,81,0,0" TextWrapping="Wrap" Text="számláló" VerticalAlignment="Top"/>
@@ -62,7 +62,7 @@
                     <TextBlock x:Name="textBlock1_Copy5" HorizontalAlignment="Left" Margin="225,103,0,0" TextWrapping="Wrap" Text="nevező" VerticalAlignment="Top"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="7. feladat">
+            <TabItem Header="7. feladat" IsEnabled="False">
                 <Grid Background="#FFE5E5E5">
                     <Button x:Name="button" Content="Csináld!" HorizontalAlignment="Center" VerticalAlignment="Center" Height="129" Width="294" FontSize="80"/>
                 </Grid>
