@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJQfhKifXo636Cqa/7ljmSNd97T+n6aYGpGll9IJUwUMD9wLwcgvctITxz5J3wWk4lvGCPHC4u++SE3Yj0hwmw==",
+  "success": true,
+  "projectFilePath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\orai\\sqlwpfurhajozas\\urhajozassql\\urhajozassql\\urhajozassql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holczerm21\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\holczerm21\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\holczerm21\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\holczerm21\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

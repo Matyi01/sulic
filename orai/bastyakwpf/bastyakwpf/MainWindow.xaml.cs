@@ -27,11 +27,11 @@ namespace bastyakwpf
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            mezo(0, 0, "Martin");
-            mezo(0, 1, "Martin");
-            mezo(0, 2, "Martin");
-            mezo(0, 3, "Martin");
-            mezo(0, 4, "Martin");
+            mezo(0, 0, "G");
+            mezo(0, 1, "G");
+            mezo(0, 2, "G");
+            mezo(0, 3, "G");
+            mezo(0, 4, "G");
 
         }
         private void mezo(int sor, int  oszlop, string tartalom)
@@ -41,12 +41,15 @@ namespace bastyakwpf
             cimke.BorderBrush = Brushes.SlateBlue;
             cimke.BorderThickness = new Thickness(1);
             cimke.Background = Brushes.AliceBlue;
-            cimke.Foreground = Brushes.White;
+            //cimke.Foreground = Brushes.White;
             cimke.Height = tabla.Height / 8;
             cimke.Width = tabla.Width / 8;
             cimke.Margin = new Thickness(cimke.Width * oszlop, cimke.Height * sor, 0, 0);
             cimke.HorizontalAlignment = HorizontalAlignment.Left;
             cimke.VerticalAlignment = VerticalAlignment.Top;
+            cimke.HorizontalContentAlignment = HorizontalAlignment.Center;
+            cimke.VerticalContentAlignment = VerticalAlignment.Center;
+            cimke.FontSize = 20;
 
             tabla.Children.Add(cimke);
         }
