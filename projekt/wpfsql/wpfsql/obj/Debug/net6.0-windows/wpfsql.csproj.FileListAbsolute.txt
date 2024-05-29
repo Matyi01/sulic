@@ -23,3 +23,28 @@ D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\wpfsql\wpfsql\obj\Debug\
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.pdb
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.genruntimeconfig.cache
 D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\ref\wpfsql.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.csproj.AssemblyReference.cache
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\App.g.cs
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql_MarkupCompile.cache
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql_MarkupCompile.lref
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\refint\wpfsql.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.pdb
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\wpfsql.exe
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\wpfsql.deps.json
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\wpfsql.runtimeconfig.json
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\wpfsql.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\wpfsql.pdb
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\MainWindow.baml
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.g.resources
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.AssemblyInfoInputs.cache
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.AssemblyInfo.cs
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.csproj.CoreCompileInputs.cache
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.csproj.CopyComplete
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\wpfsql.genruntimeconfig.cache
+D:\git\sulic\projekt\wpfsql\wpfsql\obj\Debug\net6.0-windows\ref\wpfsql.dll

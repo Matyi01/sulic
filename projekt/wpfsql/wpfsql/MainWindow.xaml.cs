@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -74,4 +75,25 @@ namespace wpfsql
                 }
             }
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            string fnev = textBox.Text;
+            string vnev = textBox1.Text;
+            string knev = textBox2.Text;
+            string jelszo = textBox3.Text;
+            string email = textBox4.Text;
+
+            string reg = "insert into fiok values (0, 0, \"matyi\", 0,\"pass\", 0, \"mail\", 2000-01-01);";
+
+            string connStr = "Server=localhost; User ID=root; Password=; Database=fiokok";
+
+            using var cn = new MySqlConnection(connStr);
+            cn.Open();
+
+            var cmd = new MySqlCommand(reg, cn);
+            cmd.ExecuteNonQuery();
+
+        }
     }
+}
