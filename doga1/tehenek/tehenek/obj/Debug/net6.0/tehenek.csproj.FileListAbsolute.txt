@@ -1,0 +1,14 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\bin\Debug\net6.0\tehenek.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\bin\Debug\net6.0\tehenek.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\bin\Debug\net6.0\tehenek.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\bin\Debug\net6.0\tehenek.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\bin\Debug\net6.0\tehenek.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\refint\tehenek.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\tehenek.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\doga1\tehenek\tehenek\obj\Debug\net6.0\ref\tehenek.dll

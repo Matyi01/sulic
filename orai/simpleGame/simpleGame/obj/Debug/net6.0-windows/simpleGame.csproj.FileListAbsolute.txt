@@ -1,0 +1,16 @@
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\bin\Debug\net6.0-windows\simpleGame.exe
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\bin\Debug\net6.0-windows\simpleGame.deps.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\bin\Debug\net6.0-windows\simpleGame.runtimeconfig.json
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\bin\Debug\net6.0-windows\simpleGame.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\bin\Debug\net6.0-windows\simpleGame.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.Form1.resources
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.csproj.GenerateResource.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.AssemblyInfoInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.AssemblyInfo.cs
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.csproj.CoreCompileInputs.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\refint\simpleGame.dll
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.pdb
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\simpleGame.genruntimeconfig.cache
+D:\Helyi_munkakönyvtár\Holczer Mátyás\sulic\orai\simpleGame\simpleGame\obj\Debug\net6.0-windows\ref\simpleGame.dll
