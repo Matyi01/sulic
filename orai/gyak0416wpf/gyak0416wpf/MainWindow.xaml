@@ -1,0 +1,40 @@
+﻿<Window x:Class="gyak0416wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:gyak0416wpf"
+        mc:Ignorable="d"
+        Title="Adatok" Height="225" Width="225" Background="#FF3E3E3E">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF00A7FF" Offset="1"/>
+                <GradientStop Color="#FF00FF90"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="115*"/>
+            <ColumnDefinition Width="86*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="Név:" HorizontalAlignment="Left" Margin="30,11,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="64,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1" Content="Cím:" HorizontalAlignment="Left" Margin="30,37,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="64,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="label2" Content="Életkor:" HorizontalAlignment="Left" Margin="14,63,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Margin="64,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Label x:Name="label3" Content="Nem:" HorizontalAlignment="Left" Margin="24,89,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton" Content="fiú" HorizontalAlignment="Left" Margin="64,95,0,0" VerticalAlignment="Top" GroupName="nem"/>
+        <RadioButton x:Name="radioButton1" Content="lány" HorizontalAlignment="Left" Margin="100,95,0,0" VerticalAlignment="Top" GroupName="nem" Grid.ColumnSpan="2"/>
+        <Label x:Name="label4" Content="Lakhely:" HorizontalAlignment="Left" Margin="12,115,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="64,117,0,0" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2">
+            <ComboBoxItem Content="Nagyatád"/>
+            <ComboBoxItem Content="Csurgó"/>
+            <ComboBoxItem Content="Berzence"/>
+            <ComboBoxItem Content="Lábod"/>
+            <ComboBoxItem Content="Kaposvár"/>
+        </ComboBox>
+        <Button x:Name="button" Content="GOMB!" HorizontalAlignment="Left" Height="21" Margin="74,156,0,0" VerticalAlignment="Top" Width="50" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

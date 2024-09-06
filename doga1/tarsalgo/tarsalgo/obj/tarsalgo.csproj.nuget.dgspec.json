@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {}
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {}
   },
   "projects": {
-    "H:\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {
+    "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
+        "projectUniqueName": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
         "projectName": "tarsalgo",
-        "projectPath": "H:\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
+        "projectPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\tarsalgo.csproj",
         "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
-        "outputPath": "H:\\sulic\\doga1\\tarsalgo\\tarsalgo\\obj\\",
+        "outputPath": "D:\\Helyi_munkakönyvtár\\Holczer Mátyás\\sulic\\doga1\\tarsalgo\\tarsalgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",

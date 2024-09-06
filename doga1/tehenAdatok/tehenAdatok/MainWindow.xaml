@@ -1,0 +1,30 @@
+﻿<Window x:Class="tehenAdatok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tehenAdatok"
+        mc:Ignorable="d"
+        Title="Happy-Cows Nyírség Kft." Height="250" Width="520">
+    <Grid>
+        <Label x:Name="label" Content="Tejhozam lekérdezés" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <Label x:Name="label1" Content="Szervasmarha azonosítója:" HorizontalAlignment="Left" Margin="32,54,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="32,80,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="32,113,0,0" VerticalAlignment="Top" Width="74" Height="21" SelectedIndex="2">
+            <ComboBoxItem Content="Hétfő" IsSelected="True"/>
+            <ComboBoxItem Content="Kedd"/>
+            <ComboBoxItem Content="Szerda"/>
+            <ComboBoxItem Content="Csütörtök"/>
+            <ComboBoxItem Content="Péntek"/>
+            <ComboBoxItem Content="Szombat"/>
+            <ComboBoxItem Content="Vasárnap"/>
+        </ComboBox>
+        <Button x:Name="button" Content="Lekérdezés" HorizontalAlignment="Left" Margin="69,146,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="284,80,0,0" VerticalAlignment="Top" Width="159" Maximum="25" Minimum="15" Value="20"/>
+        <Label x:Name="label2" Content="Tej limit:" HorizontalAlignment="Left" Margin="284,54,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="15 liter" HorizontalAlignment="Left" Margin="232,76,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="25 liter" HorizontalAlignment="Left" Margin="443,74,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Kilépés" HorizontalAlignment="Left" Margin="364,146,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

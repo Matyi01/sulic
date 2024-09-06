@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4rDoPCjsRjDItIVcCkIFr3Sv9HiPr1GyuMVOWx5vFnTiJQLqbnBqhThkMmmeU2Ms8KJbaS4jkumOyqSGtmOn4g==",
+  "success": true,
+  "projectFilePath": "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holcz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\holcz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
