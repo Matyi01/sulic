@@ -1,0 +1,15 @@
+H:\sulic\orai2\szavakkk\szavakkk\bin\Debug\net8.0\szavakkk.exe
+H:\sulic\orai2\szavakkk\szavakkk\bin\Debug\net8.0\szavakkk.deps.json
+H:\sulic\orai2\szavakkk\szavakkk\bin\Debug\net8.0\szavakkk.runtimeconfig.json
+H:\sulic\orai2\szavakkk\szavakkk\bin\Debug\net8.0\szavakkk.dll
+H:\sulic\orai2\szavakkk\szavakkk\bin\Debug\net8.0\szavakkk.pdb
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.AssemblyInfoInputs.cache
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.AssemblyInfo.cs
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.sourcelink.json
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.dll
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\refint\szavakkk.dll
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.pdb
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\szavakkk.genruntimeconfig.cache
+H:\sulic\orai2\szavakkk\szavakkk\obj\Debug\net8.0\ref\szavakkk.dll
