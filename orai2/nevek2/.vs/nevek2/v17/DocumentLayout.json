@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\nevek2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B58E823-BB0E-4DE1-B0B3-F23BB1519815}|nevek2\\nevek2.csproj|h:\\sulic\\orai2\\nevek2\\nevek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B58E823-BB0E-4DE1-B0B3-F23BB1519815}|nevek2\\nevek2.csproj|solutionrelative:nevek2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\nevek2\\nevek2\\Program.cs",
+              "RelativeDocumentMoniker": "nevek2\\Program.cs",
+              "ToolTip": "H:\\sulic\\orai2\\nevek2\\nevek2\\Program.cs",
+              "RelativeToolTip": "nevek2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T07:01:09.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

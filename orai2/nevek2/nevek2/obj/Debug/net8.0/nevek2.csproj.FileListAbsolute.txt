@@ -1,0 +1,15 @@
+H:\sulic\orai2\nevek2\nevek2\bin\Debug\net8.0\nevek2.exe
+H:\sulic\orai2\nevek2\nevek2\bin\Debug\net8.0\nevek2.deps.json
+H:\sulic\orai2\nevek2\nevek2\bin\Debug\net8.0\nevek2.runtimeconfig.json
+H:\sulic\orai2\nevek2\nevek2\bin\Debug\net8.0\nevek2.dll
+H:\sulic\orai2\nevek2\nevek2\bin\Debug\net8.0\nevek2.pdb
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.AssemblyInfoInputs.cache
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.AssemblyInfo.cs
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.sourcelink.json
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.dll
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\refint\nevek2.dll
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.pdb
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\nevek2.genruntimeconfig.cache
+H:\sulic\orai2\nevek2\nevek2\obj\Debug\net8.0\ref\nevek2.dll

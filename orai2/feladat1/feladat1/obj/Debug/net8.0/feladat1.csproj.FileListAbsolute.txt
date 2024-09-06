@@ -1,0 +1,15 @@
+H:\sulic\orai2\feladat1\feladat1\bin\Debug\net8.0\feladat1.exe
+H:\sulic\orai2\feladat1\feladat1\bin\Debug\net8.0\feladat1.deps.json
+H:\sulic\orai2\feladat1\feladat1\bin\Debug\net8.0\feladat1.runtimeconfig.json
+H:\sulic\orai2\feladat1\feladat1\bin\Debug\net8.0\feladat1.dll
+H:\sulic\orai2\feladat1\feladat1\bin\Debug\net8.0\feladat1.pdb
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.AssemblyInfoInputs.cache
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.AssemblyInfo.cs
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.sourcelink.json
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.dll
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\refint\feladat1.dll
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.pdb
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\feladat1.genruntimeconfig.cache
+H:\sulic\orai2\feladat1\feladat1\obj\Debug\net8.0\ref\feladat1.dll
