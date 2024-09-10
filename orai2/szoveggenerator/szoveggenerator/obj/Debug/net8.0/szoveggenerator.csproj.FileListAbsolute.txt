@@ -1,0 +1,15 @@
+H:\sulic\orai2\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.exe
+H:\sulic\orai2\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.deps.json
+H:\sulic\orai2\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.runtimeconfig.json
+H:\sulic\orai2\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.dll
+H:\sulic\orai2\szoveggenerator\szoveggenerator\bin\Debug\net8.0\szoveggenerator.pdb
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.AssemblyInfoInputs.cache
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.AssemblyInfo.cs
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.sourcelink.json
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.dll
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\refint\szoveggenerator.dll
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.pdb
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\szoveggenerator.genruntimeconfig.cache
+H:\sulic\orai2\szoveggenerator\szoveggenerator\obj\Debug\net8.0\ref\szoveggenerator.dll
