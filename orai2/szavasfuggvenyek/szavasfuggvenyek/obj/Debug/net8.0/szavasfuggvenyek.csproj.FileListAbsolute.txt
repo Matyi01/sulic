@@ -1,0 +1,15 @@
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\bin\Debug\net8.0\szavasfuggvenyek.exe
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\bin\Debug\net8.0\szavasfuggvenyek.deps.json
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\bin\Debug\net8.0\szavasfuggvenyek.runtimeconfig.json
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\bin\Debug\net8.0\szavasfuggvenyek.dll
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\bin\Debug\net8.0\szavasfuggvenyek.pdb
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.AssemblyInfoInputs.cache
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.AssemblyInfo.cs
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.sourcelink.json
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.dll
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\refint\szavasfuggvenyek.dll
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.pdb
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\szavasfuggvenyek.genruntimeconfig.cache
+H:\sulic\orai2\szavasfuggvenyek\szavasfuggvenyek\obj\Debug\net8.0\ref\szavasfuggvenyek.dll
