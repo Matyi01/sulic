@@ -43,7 +43,7 @@ static string szogen(int hossz)
     for (int i = 0; i < hossz; i++)
     {
         szo += betuk[melyik][random.Next(betuk[melyik++].Length)];
-        if (melyik > 1) { melyik = 0; }
+        melyik = 1 - melyik;
     }
     return szo;
 }
