@@ -42,7 +42,7 @@ static string szogen(int hossz)
     int melyik = random.Next(2);
     for (int i = 0; i < hossz; i++)
     {
-        szo += betuk[melyik][random.Next(betuk[melyik++].Length)];
+        szo += betuk[melyik][random.Next(betuk[melyik].Length)];
         melyik = 1 - melyik;
     }
     return szo;
@@ -50,8 +50,21 @@ static string szogen(int hossz)
 static List<string> sokszo()
 {
     int szam = szambeker(3, 110);
+    int db = 0;
+    while (db == 0)
+    {
+        try
+        {
+            Console.Write("Hány szó legyen? ");
+            db = Convert.ToInt32(Console.ReadLine());
+        }
+        catch
+        {
+            Console.WriteLine("Ez nem szám!");
+        }
+    }
     List<string> szavak = new List<string>();
-    for (int i = 0; i < 200; i++)
+    for (int i = 0; i < db; i++)
     {
         szavak.Add(szogen(szam));
     }
