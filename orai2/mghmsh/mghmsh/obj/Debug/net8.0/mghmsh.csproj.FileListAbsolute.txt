@@ -1,0 +1,15 @@
+H:\sulic\orai2\mghmsh\mghmsh\bin\Debug\net8.0\mghmsh.exe
+H:\sulic\orai2\mghmsh\mghmsh\bin\Debug\net8.0\mghmsh.deps.json
+H:\sulic\orai2\mghmsh\mghmsh\bin\Debug\net8.0\mghmsh.runtimeconfig.json
+H:\sulic\orai2\mghmsh\mghmsh\bin\Debug\net8.0\mghmsh.dll
+H:\sulic\orai2\mghmsh\mghmsh\bin\Debug\net8.0\mghmsh.pdb
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.AssemblyInfoInputs.cache
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.AssemblyInfo.cs
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.sourcelink.json
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.dll
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\refint\mghmsh.dll
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.pdb
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\mghmsh.genruntimeconfig.cache
+H:\sulic\orai2\mghmsh\mghmsh\obj\Debug\net8.0\ref\mghmsh.dll
