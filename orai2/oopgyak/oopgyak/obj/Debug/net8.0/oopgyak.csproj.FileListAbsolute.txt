@@ -1,0 +1,15 @@
+H:\sulic\orai2\oopgyak\oopgyak\bin\Debug\net8.0\oopgyak.exe
+H:\sulic\orai2\oopgyak\oopgyak\bin\Debug\net8.0\oopgyak.deps.json
+H:\sulic\orai2\oopgyak\oopgyak\bin\Debug\net8.0\oopgyak.runtimeconfig.json
+H:\sulic\orai2\oopgyak\oopgyak\bin\Debug\net8.0\oopgyak.dll
+H:\sulic\orai2\oopgyak\oopgyak\bin\Debug\net8.0\oopgyak.pdb
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.AssemblyInfoInputs.cache
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.AssemblyInfo.cs
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.sourcelink.json
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.dll
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\refint\oopgyak.dll
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.pdb
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\oopgyak.genruntimeconfig.cache
+H:\sulic\orai2\oopgyak\oopgyak\obj\Debug\net8.0\ref\oopgyak.dll

@@ -79,5 +79,25 @@ static void fajlbair(List<string> szavak)
     }
     ir.Close();
 }
+static List<string> mondatgen(List<string> szavak){
+    Random random = new Random();
+    List<string> mondatok = new List<string>();
+    for(int i = 0; i < 100; i++)
+    {
+        int k = random.Next(3, 11);
+        string mondat = "s";
+        for (int j = 0; j < k; j++)
+        {
+            mondat += szavak[random.Next(szavak.Count)];
+        }
+        mondatok.Add(mondat);
+    }
+    return mondatok;
+}
 
-fajlbair(sokszo());
+
+List<string> szavak = sokszo();
+fajlbair(szavak);
+
+
+
