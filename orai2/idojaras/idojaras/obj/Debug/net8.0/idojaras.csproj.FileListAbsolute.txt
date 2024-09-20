@@ -1,0 +1,15 @@
+H:\sulic\orai2\idojaras\idojaras\bin\Debug\net8.0\idojaras.exe
+H:\sulic\orai2\idojaras\idojaras\bin\Debug\net8.0\idojaras.deps.json
+H:\sulic\orai2\idojaras\idojaras\bin\Debug\net8.0\idojaras.runtimeconfig.json
+H:\sulic\orai2\idojaras\idojaras\bin\Debug\net8.0\idojaras.dll
+H:\sulic\orai2\idojaras\idojaras\bin\Debug\net8.0\idojaras.pdb
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.AssemblyInfoInputs.cache
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.AssemblyInfo.cs
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.sourcelink.json
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.dll
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\refint\idojaras.dll
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.pdb
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\idojaras.genruntimeconfig.cache
+H:\sulic\orai2\idojaras\idojaras\obj\Debug\net8.0\ref\idojaras.dll
