@@ -1,0 +1,15 @@
+H:\sulic\orai2\hajo_object\hajo_object\bin\Debug\net8.0\hajo_object.exe
+H:\sulic\orai2\hajo_object\hajo_object\bin\Debug\net8.0\hajo_object.deps.json
+H:\sulic\orai2\hajo_object\hajo_object\bin\Debug\net8.0\hajo_object.runtimeconfig.json
+H:\sulic\orai2\hajo_object\hajo_object\bin\Debug\net8.0\hajo_object.dll
+H:\sulic\orai2\hajo_object\hajo_object\bin\Debug\net8.0\hajo_object.pdb
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.AssemblyInfoInputs.cache
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.AssemblyInfo.cs
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.sourcelink.json
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.dll
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\refint\hajo_object.dll
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.pdb
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\hajo_object.genruntimeconfig.cache
+H:\sulic\orai2\hajo_object\hajo_object\obj\Debug\net8.0\ref\hajo_object.dll
