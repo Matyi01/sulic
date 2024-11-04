@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\lotto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|h:\\sulic\\orai2\\lotto\\lotto\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|solutionrelative:lotto\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|h:\\sulic\\orai2\\lotto\\lotto\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|solutionrelative:lotto\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|h:\\sulic\\orai2\\lotto\\lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|h:\\sulic\\orai2\\lotto\\lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FFB8EB-5B1B-430D-B9A2-4AC73FBC1A28}|lotto\\lotto.csproj|solutionrelative:lotto\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\lotto\\lotto\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "lotto\\Window1.xaml.cs",
+              "ToolTip": "H:\\sulic\\orai2\\lotto\\lotto\\Window1.xaml.cs",
+              "RelativeToolTip": "lotto\\Window1.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:50:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "H:\\sulic\\orai2\\lotto\\lotto\\Window1.xaml",
+              "RelativeDocumentMoniker": "lotto\\Window1.xaml",
+              "ToolTip": "H:\\sulic\\orai2\\lotto\\lotto\\Window1.xaml",
+              "RelativeToolTip": "lotto\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T12:49:14.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\sulic\\orai2\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml",
+              "ToolTip": "H:\\sulic\\orai2\\lotto\\lotto\\MainWindow.xaml",
+              "RelativeToolTip": "lotto\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-04T12:42:17.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lotto\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\sulic\\orai2\\lotto\\lotto\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lotto\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:42:15.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
