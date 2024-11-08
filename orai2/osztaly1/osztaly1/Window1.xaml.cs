@@ -10,6 +10,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Media.Media3D;
 using System.Windows.Shapes;
 
 namespace osztaly1
@@ -24,9 +25,16 @@ namespace osztaly1
         {
             InitializeComponent();
         }
-        public void show()
+        public void Show(bool szamolj)
         {
+            megnyitasDB++;
+            textBlock.Text = megnyitasDB.ToString();
+            this.Show();
+        }
 
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
         }
     }
 }

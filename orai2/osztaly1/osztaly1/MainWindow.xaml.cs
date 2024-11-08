@@ -20,5 +20,10 @@ namespace osztaly1
         {
             InitializeComponent();
         }
+        Window1 ujablak = new Window1();
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            ujablak.Show(true);
+        }
     }
 }
