@@ -1,0 +1,15 @@
+H:\sulic\orai2\definialosCucc\definialosCucc\bin\Debug\net8.0\definialosCucc.exe
+H:\sulic\orai2\definialosCucc\definialosCucc\bin\Debug\net8.0\definialosCucc.deps.json
+H:\sulic\orai2\definialosCucc\definialosCucc\bin\Debug\net8.0\definialosCucc.runtimeconfig.json
+H:\sulic\orai2\definialosCucc\definialosCucc\bin\Debug\net8.0\definialosCucc.dll
+H:\sulic\orai2\definialosCucc\definialosCucc\bin\Debug\net8.0\definialosCucc.pdb
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.AssemblyInfoInputs.cache
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.AssemblyInfo.cs
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.sourcelink.json
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.dll
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\refint\definialosCucc.dll
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.pdb
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\definialosCucc.genruntimeconfig.cache
+H:\sulic\orai2\definialosCucc\definialosCucc\obj\Debug\net8.0\ref\definialosCucc.dll
