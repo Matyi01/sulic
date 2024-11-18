@@ -82,17 +82,17 @@ namespace definialosCucc
         {
             return new Pont(a.x-1, a.y-1);
         }
-        public override bool Equals(object? obj)
+        public override bool Equals(object obj)
         {
             if (obj == null)
             {
                 return false;
             }
-            Pont other = obj as Pont;
-            if (other == null)
+            if (obj.GetType() != typeof(Pont))
             {
                 return false;
             }
+            Pont other = obj as Pont;
             return x == other.x && y == other.y;
         }
         public static bool operator == (Pont a, Pont b)

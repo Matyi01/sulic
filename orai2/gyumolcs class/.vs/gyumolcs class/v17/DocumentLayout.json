@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\gyumolcs class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D3902-BE1B-4CCA-AF23-6CC2A05A4259}|gyumolcs class\\gyumolcs class.csproj|h:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D3902-BE1B-4CCA-AF23-6CC2A05A4259}|gyumolcs class\\gyumolcs class.csproj|solutionrelative:gyumolcs class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D3902-BE1B-4CCA-AF23-6CC2A05A4259}|gyumolcs class\\gyumolcs class.csproj|h:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\gyumolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D3902-BE1B-4CCA-AF23-6CC2A05A4259}|gyumolcs class\\gyumolcs class.csproj|solutionrelative:gyumolcs class\\gyumolcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gyumolcs.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\gyumolcs.cs",
+              "RelativeDocumentMoniker": "gyumolcs class\\gyumolcs.cs",
+              "ToolTip": "H:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\gyumolcs.cs",
+              "RelativeToolTip": "gyumolcs class\\gyumolcs.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwC8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:01:49.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\Program.cs",
+              "RelativeDocumentMoniker": "gyumolcs class\\Program.cs",
+              "ToolTip": "H:\\sulic\\orai2\\gyumolcs class\\gyumolcs class\\Program.cs",
+              "RelativeToolTip": "gyumolcs class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:01:19.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
