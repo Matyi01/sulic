@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("operatorFeluliras1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92da70334f63c965a72ed01981d12d405ed67dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6014184a761392d38142428d1d10ce8f306c94f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("operatorFeluliras1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("operatorFeluliras1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

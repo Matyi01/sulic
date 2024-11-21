@@ -20,12 +20,29 @@ namespace operatorFeluliras1
         }
         public static Csorda operator +(Csorda cs1, Allat a1)
         {
-            cs1.tagok.Add(a1);
-            return cs1;
+            List<Allat> temp = new List<Allat>(cs1.tagok);
+            if (!temp.Contains(a1))
+            {
+                temp.Add(a1);
+            }
+            Csorda tempcs = new Csorda();
+            tempcs.tagok = temp;
+            return tempcs;
+        }
+        public static Csorda operator -(Csorda cs1, Allat a1)
+        {
+            List<Allat> temp = new List<Allat>(cs1.tagok);
+            temp.Remove(a1);
+            Csorda tempcs = new Csorda();
+            tempcs.tagok = temp;
+            return tempcs;
         }
         public void kiir()
         {
-
+            foreach (var item in tagok)
+            {
+                Console.WriteLine($"{item.nev}, {item.suly}kg, {item.ar}Ft");
+            }
         }
     }
 }
