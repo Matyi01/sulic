@@ -1,0 +1,15 @@
+H:\sulic\doga1\oopdoga1\oopdoga1\bin\Debug\net8.0\oopdoga1.exe
+H:\sulic\doga1\oopdoga1\oopdoga1\bin\Debug\net8.0\oopdoga1.deps.json
+H:\sulic\doga1\oopdoga1\oopdoga1\bin\Debug\net8.0\oopdoga1.runtimeconfig.json
+H:\sulic\doga1\oopdoga1\oopdoga1\bin\Debug\net8.0\oopdoga1.dll
+H:\sulic\doga1\oopdoga1\oopdoga1\bin\Debug\net8.0\oopdoga1.pdb
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.AssemblyInfoInputs.cache
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.AssemblyInfo.cs
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.sourcelink.json
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.dll
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\refint\oopdoga1.dll
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.pdb
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\oopdoga1.genruntimeconfig.cache
+H:\sulic\doga1\oopdoga1\oopdoga1\obj\Debug\net8.0\ref\oopdoga1.dll
