@@ -1,0 +1,15 @@
+H:\sulic\orai2\regExp\regExp\bin\Debug\net8.0\regExp.exe
+H:\sulic\orai2\regExp\regExp\bin\Debug\net8.0\regExp.deps.json
+H:\sulic\orai2\regExp\regExp\bin\Debug\net8.0\regExp.runtimeconfig.json
+H:\sulic\orai2\regExp\regExp\bin\Debug\net8.0\regExp.dll
+H:\sulic\orai2\regExp\regExp\bin\Debug\net8.0\regExp.pdb
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.AssemblyInfoInputs.cache
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.AssemblyInfo.cs
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.sourcelink.json
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.dll
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\refint\regExp.dll
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.pdb
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\regExp.genruntimeconfig.cache
+H:\sulic\orai2\regExp\regExp\obj\Debug\net8.0\ref\regExp.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\regExp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28D6AD-7C2E-41C5-9E61-9AAEEE77D96A}|regExp\\regExp.csproj|h:\\sulic\\orai2\\regexp\\regexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D28D6AD-7C2E-41C5-9E61-9AAEEE77D96A}|regExp\\regExp.csproj|solutionrelative:regexp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\regExp\\regExp\\Program.cs",
+              "RelativeDocumentMoniker": "regExp\\Program.cs",
+              "ToolTip": "H:\\sulic\\orai2\\regExp\\regExp\\Program.cs",
+              "RelativeToolTip": "regExp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:16:04.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
