@@ -1,0 +1,15 @@
+H:\sulic\orai2\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.exe
+H:\sulic\orai2\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.deps.json
+H:\sulic\orai2\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.runtimeconfig.json
+H:\sulic\orai2\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.dll
+H:\sulic\orai2\regEpx2\regEpx2\bin\Debug\net8.0\regEpx2.pdb
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.AssemblyInfoInputs.cache
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.AssemblyInfo.cs
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.sourcelink.json
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.dll
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\refint\regEpx2.dll
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.pdb
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\regEpx2.genruntimeconfig.cache
+H:\sulic\orai2\regEpx2\regEpx2\obj\Debug\net8.0\ref\regEpx2.dll
