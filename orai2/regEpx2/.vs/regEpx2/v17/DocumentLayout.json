@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{CCE28997-5810-4DF4-9824-06ECD9BA7A04}|regEpx2\\regEpx2.csproj|h:\\sulic\\orai2\\regepx2\\regepx2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCE28997-5810-4DF4-9824-06ECD9BA7A04}|regEpx2\\regEpx2.csproj|solutionrelative:regepx2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\regEpx2\\regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "generated_log_2024-12-11T11_21_39.997Z.txt",
+              "DocumentMoniker": "H:\\sulic\\orai2\\regEpx2\\regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt",
+              "RelativeDocumentMoniker": "regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt",
+              "ToolTip": "H:\\sulic\\orai2\\regEpx2\\regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt",
+              "RelativeToolTip": "regEpx2\\bin\\Debug\\net8.0\\generated_log_2024-12-11T11_21_39.997Z.txt",
+              "ViewState": "AQIAALQDAAAAAAAAAAAAABgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T08:58:07.933Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "regEpx2\\Program.cs",
               "ToolTip": "H:\\sulic\\orai2\\regEpx2\\regEpx2\\Program.cs",
               "RelativeToolTip": "regEpx2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwv1gAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T11:50:48.423Z",
               "EditorCaption": ""
