@@ -1,0 +1,15 @@
+H:\sulic\doga1\regExDoga\regExDoga\bin\Debug\net8.0\regExDoga.exe
+H:\sulic\doga1\regExDoga\regExDoga\bin\Debug\net8.0\regExDoga.deps.json
+H:\sulic\doga1\regExDoga\regExDoga\bin\Debug\net8.0\regExDoga.runtimeconfig.json
+H:\sulic\doga1\regExDoga\regExDoga\bin\Debug\net8.0\regExDoga.dll
+H:\sulic\doga1\regExDoga\regExDoga\bin\Debug\net8.0\regExDoga.pdb
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.AssemblyInfoInputs.cache
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.AssemblyInfo.cs
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.sourcelink.json
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.dll
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\refint\regExDoga.dll
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.pdb
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\regExDoga.genruntimeconfig.cache
+H:\sulic\doga1\regExDoga\regExDoga\obj\Debug\net8.0\ref\regExDoga.dll
