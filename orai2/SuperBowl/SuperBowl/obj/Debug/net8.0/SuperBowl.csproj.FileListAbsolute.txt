@@ -1,0 +1,15 @@
+H:\sulic\orai2\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.exe
+H:\sulic\orai2\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.deps.json
+H:\sulic\orai2\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.runtimeconfig.json
+H:\sulic\orai2\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.dll
+H:\sulic\orai2\SuperBowl\SuperBowl\bin\Debug\net8.0\SuperBowl.pdb
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.AssemblyInfoInputs.cache
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.AssemblyInfo.cs
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.sourcelink.json
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.dll
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\refint\SuperBowl.dll
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.pdb
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\SuperBowl.genruntimeconfig.cache
+H:\sulic\orai2\SuperBowl\SuperBowl\obj\Debug\net8.0\ref\SuperBowl.dll

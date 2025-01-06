@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "H:\\sulic\\orai2\\nevjegyclass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|h:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|solutionrelative:nevjegyclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|h:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|solutionrelative:nevjegyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|h:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8113B3F8-8C7E-461D-B14B-CDB491845B32}|nevjegyclass\\nevjegyclass.csproj|solutionrelative:nevjegyclass\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\Class1.cs",
               "RelativeDocumentMoniker": "nevjegyclass\\Class1.cs",
               "ToolTip": "H:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\Class1.cs",
               "RelativeToolTip": "nevjegyclass\\Class1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T11:44:05.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\nevjegyclass\\nevjegyclass\\Program.cs",
               "RelativeDocumentMoniker": "nevjegyclass\\Program.cs",
