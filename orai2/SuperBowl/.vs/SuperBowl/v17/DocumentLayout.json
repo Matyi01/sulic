@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{2687BFE1-8A5F-415F-B3F8-75931553E04F}|SuperBowl\\SuperBowl.csproj|solutionrelative:superbowl\\eredmeny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2687BFE1-8A5F-415F-B3F8-75931553E04F}|SuperBowl\\SuperBowl.csproj|h:\\sulic\\orai2\\superbowl\\superbowl\\romaisorszam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2687BFE1-8A5F-415F-B3F8-75931553E04F}|SuperBowl\\SuperBowl.csproj|solutionrelative:superbowl\\romaisorszam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,13 @@
               "RelativeDocumentMoniker": "SuperBowl\\Eredmeny.cs",
               "ToolTip": "H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\Eredmeny.cs",
               "RelativeToolTip": "SuperBowl\\Eredmeny.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACTAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:59:50.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T12:59:50.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RomaiSorszam.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\RomaiSorszam.cs",
               "RelativeDocumentMoniker": "SuperBowl\\RomaiSorszam.cs",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "SuperBowl\\RomaiSorszam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T12:54:53.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T12:54:53.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SuperBowl.txt",
               "DocumentMoniker": "H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt",
               "RelativeDocumentMoniker": "SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "SuperBowl\\bin\\Debug\\net8.0\\SuperBowl.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-06T12:51:06.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T12:51:06.683Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "SuperBowl\\Program.cs",
               "ToolTip": "H:\\sulic\\orai2\\SuperBowl\\SuperBowl\\Program.cs",
               "RelativeToolTip": "SuperBowl\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T12:49:17.422Z",
               "EditorCaption": ""
