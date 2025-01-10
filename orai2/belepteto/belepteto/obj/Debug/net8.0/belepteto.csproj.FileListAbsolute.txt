@@ -1,0 +1,15 @@
+H:\sulic\orai2\belepteto\belepteto\bin\Debug\net8.0\belepteto.exe
+H:\sulic\orai2\belepteto\belepteto\bin\Debug\net8.0\belepteto.deps.json
+H:\sulic\orai2\belepteto\belepteto\bin\Debug\net8.0\belepteto.runtimeconfig.json
+H:\sulic\orai2\belepteto\belepteto\bin\Debug\net8.0\belepteto.dll
+H:\sulic\orai2\belepteto\belepteto\bin\Debug\net8.0\belepteto.pdb
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfoInputs.cache
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.AssemblyInfo.cs
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.sourcelink.json
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.dll
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\refint\belepteto.dll
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.pdb
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\belepteto.genruntimeconfig.cache
+H:\sulic\orai2\belepteto\belepteto\obj\Debug\net8.0\ref\belepteto.dll
