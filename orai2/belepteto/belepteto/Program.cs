@@ -27,7 +27,7 @@ foreach (adatok e in esemenyek)
         db++;
     }
 }
-Console.WriteLine(db);
+Console.WriteLine("Evett: " + db);
 
 HashSet<string> db2 = new HashSet<string>();
 foreach (adatok e in esemenyek)
@@ -37,4 +37,52 @@ foreach (adatok e in esemenyek)
         db2.Add(e.kod);
     }
 }
-Console.WriteLine(db2.Count);
+Console.WriteLine("Könyvezett: " + db2.Count);
+
+Console.WriteLine("Rosszak:");
+HashSet<string> kodok = new HashSet<string>();
+foreach (adatok e in esemenyek)
+{
+    if (e.esemeny == 4)
+    {
+        kodok.Add(e.kod);
+    }
+}
+foreach (string kod in kodok)
+{
+    bool bentvan = false;
+    foreach (adatok e in esemenyek)
+    {
+        if(e.kod == kod)
+        {
+            if (e.esemeny == 1)
+            {
+                if (bentvan)
+                {
+                    //hiba
+                    if (e.ora == 10 && e.perc > 50)
+                    {
+                        Console.WriteLine(kod);
+                    }
+                }
+                else
+                {
+                    bentvan = true;
+                }
+            }
+            else if (e.esemeny == 2)
+            {
+                if (!bentvan)
+                {
+                    //hiba
+                }
+                else
+                {
+                    bentvan = false;
+                }
+            }
+        }
+    }
+}
+Console.Write("Azonosítót: ");
+string bekod = Console.ReadLine();
