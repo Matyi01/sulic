@@ -1,0 +1,15 @@
+H:\sulic\doga1\jelado\jelado\bin\Debug\net8.0\jelado.exe
+H:\sulic\doga1\jelado\jelado\bin\Debug\net8.0\jelado.deps.json
+H:\sulic\doga1\jelado\jelado\bin\Debug\net8.0\jelado.runtimeconfig.json
+H:\sulic\doga1\jelado\jelado\bin\Debug\net8.0\jelado.dll
+H:\sulic\doga1\jelado\jelado\bin\Debug\net8.0\jelado.pdb
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.AssemblyInfoInputs.cache
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.AssemblyInfo.cs
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.sourcelink.json
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.dll
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\refint\jelado.dll
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.pdb
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\jelado.genruntimeconfig.cache
+H:\sulic\doga1\jelado\jelado\obj\Debug\net8.0\ref\jelado.dll
