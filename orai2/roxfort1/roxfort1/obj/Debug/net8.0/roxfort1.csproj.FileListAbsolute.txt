@@ -1,0 +1,15 @@
+H:\sulic\orai2\roxfort1\roxfort1\bin\Debug\net8.0\roxfort1.exe
+H:\sulic\orai2\roxfort1\roxfort1\bin\Debug\net8.0\roxfort1.deps.json
+H:\sulic\orai2\roxfort1\roxfort1\bin\Debug\net8.0\roxfort1.runtimeconfig.json
+H:\sulic\orai2\roxfort1\roxfort1\bin\Debug\net8.0\roxfort1.dll
+H:\sulic\orai2\roxfort1\roxfort1\bin\Debug\net8.0\roxfort1.pdb
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.AssemblyInfoInputs.cache
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.AssemblyInfo.cs
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.sourcelink.json
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.dll
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\refint\roxfort1.dll
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.pdb
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\roxfort1.genruntimeconfig.cache
+H:\sulic\orai2\roxfort1\roxfort1\obj\Debug\net8.0\ref\roxfort1.dll
