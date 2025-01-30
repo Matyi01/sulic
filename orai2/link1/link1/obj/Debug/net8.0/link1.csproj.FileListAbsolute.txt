@@ -1,0 +1,15 @@
+H:\sulic\orai2\link1\link1\bin\Debug\net8.0\link1.exe
+H:\sulic\orai2\link1\link1\bin\Debug\net8.0\link1.deps.json
+H:\sulic\orai2\link1\link1\bin\Debug\net8.0\link1.runtimeconfig.json
+H:\sulic\orai2\link1\link1\bin\Debug\net8.0\link1.dll
+H:\sulic\orai2\link1\link1\bin\Debug\net8.0\link1.pdb
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.AssemblyInfoInputs.cache
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.AssemblyInfo.cs
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.sourcelink.json
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.dll
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\refint\link1.dll
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.pdb
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\link1.genruntimeconfig.cache
+H:\sulic\orai2\link1\link1\obj\Debug\net8.0\ref\link1.dll
