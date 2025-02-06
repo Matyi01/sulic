@@ -24,5 +24,9 @@ namespace link1
         {
             get { return kezd > veg; }
         }
+        public bool bennevanez(int sorszam)
+        {
+            return (kezd <= sorszam && veg >= sorszam) || (kapubentvan && (kezd <= sorszam || veg >= sorszam));
+        }
     }
 }
