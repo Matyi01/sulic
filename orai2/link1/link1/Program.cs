@@ -59,3 +59,21 @@ else
     Console.WriteLine("Ha csak az első ültet: {0}", szin);
     Console.WriteLine("Ha az összes: {0}", string.Join(" ", szinek));
 }
+
+List<Adatok> szurt = viragok.Where(e => e.bennevanez(be)).ToList();
+Console.WriteLine(szurt.Count);
+Console.WriteLine(szurt.Select(e => e.szin).First());
+Console.WriteLine(string.Join(" ", szurt.Select(e => e.szin).Distinct()));
+
+
+List<Adatok>[] agyasok = new List<Adatok>[db + 1];
+for (int i = 1; i < db + 1; i++)
+{
+    foreach (Adatok e in viragok)
+    {
+        if (e.bennevanez(i))
+        {
+            agyasok[i].Add(e);
+        }
+    }
+}

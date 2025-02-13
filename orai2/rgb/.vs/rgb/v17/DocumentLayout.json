@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\rgb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|h:\\sulic\\orai2\\rgb\\rgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|solutionrelative:rgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|h:\\sulic\\orai2\\rgb\\rgb\\szin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|solutionrelative:rgb\\szin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|h:\\sulic\\orai2\\rgb\\rgb\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C6411B-C4D0-4568-B0BE-E7242AF0A894}|rgb\\rgb.csproj|solutionrelative:rgb\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pixel.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\rgb\\rgb\\Pixel.cs",
+              "RelativeDocumentMoniker": "rgb\\Pixel.cs",
+              "ToolTip": "H:\\sulic\\orai2\\rgb\\rgb\\Pixel.cs",
+              "RelativeToolTip": "rgb\\Pixel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:03:37.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Szin.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\rgb\\rgb\\Szin.cs",
+              "RelativeDocumentMoniker": "rgb\\Szin.cs",
+              "ToolTip": "H:\\sulic\\orai2\\rgb\\rgb\\Szin.cs",
+              "RelativeToolTip": "rgb\\Szin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:51:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\rgb\\rgb\\Program.cs",
+              "RelativeDocumentMoniker": "rgb\\Program.cs",
+              "ToolTip": "H:\\sulic\\orai2\\rgb\\rgb\\Program.cs",
+              "RelativeToolTip": "rgb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T12:44:33.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
