@@ -1,0 +1,15 @@
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.AssemblyInfoInputs.cache
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.AssemblyInfo.cs
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.sourcelink.json
+H:\sulic\doga1\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.exe
+H:\sulic\doga1\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.deps.json
+H:\sulic\doga1\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.runtimeconfig.json
+H:\sulic\doga1\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.dll
+H:\sulic\doga1\tanciskola\tanciskola\bin\Debug\net8.0\tanciskola.pdb
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.dll
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\refint\tanciskola.dll
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.pdb
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\tanciskola.genruntimeconfig.cache
+H:\sulic\doga1\tanciskola\tanciskola\obj\Debug\net8.0\ref\tanciskola.dll

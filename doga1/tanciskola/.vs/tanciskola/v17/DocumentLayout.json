@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\doga1\\tanciskola\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218C00A3-36BF-44D0-950B-F4B2BAF6E467}|tanciskola\\tanciskola.csproj|h:\\sulic\\doga1\\tanciskola\\tanciskola\\par.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218C00A3-36BF-44D0-950B-F4B2BAF6E467}|tanciskola\\tanciskola.csproj|solutionrelative:tanciskola\\par.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218C00A3-36BF-44D0-950B-F4B2BAF6E467}|tanciskola\\tanciskola.csproj|h:\\sulic\\doga1\\tanciskola\\tanciskola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218C00A3-36BF-44D0-950B-F4B2BAF6E467}|tanciskola\\tanciskola.csproj|solutionrelative:tanciskola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\doga1\\tanciskola\\tanciskola\\bin\\Debug\\net8.0\\tancrend.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tanciskola\\bin\\Debug\\net8.0\\tancrend.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tancrend.txt",
+              "DocumentMoniker": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\bin\\Debug\\net8.0\\tancrend.txt",
+              "RelativeDocumentMoniker": "tanciskola\\bin\\Debug\\net8.0\\tancrend.txt",
+              "ToolTip": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\bin\\Debug\\net8.0\\tancrend.txt",
+              "RelativeToolTip": "tanciskola\\bin\\Debug\\net8.0\\tancrend.txt",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawEAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-20T08:54:09.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Par.cs",
+              "DocumentMoniker": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\Par.cs",
+              "RelativeDocumentMoniker": "tanciskola\\Par.cs",
+              "ToolTip": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\Par.cs",
+              "RelativeToolTip": "tanciskola\\Par.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:01:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\Program.cs",
+              "RelativeDocumentMoniker": "tanciskola\\Program.cs",
+              "ToolTip": "H:\\sulic\\doga1\\tanciskola\\tanciskola\\Program.cs",
+              "RelativeToolTip": "tanciskola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:53:35.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
