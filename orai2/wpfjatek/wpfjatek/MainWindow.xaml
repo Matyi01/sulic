@@ -18,9 +18,20 @@
                     <Button x:Name="button1" Content="Button" HorizontalAlignment="Left" Margin="367,186,0,0" VerticalAlignment="Top" MouseEnter="button_MouseEnter1"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="TabItem">
-                <Label x:Name="label1" Content="0" Margin="10,10,0,0" Width="50" Height="50"/>
+            <TabItem Header="TicTacToe">
+                <Grid Background="#FFE5E5E5">
+                    <Button x:Name="b0" Content="" Height="100" Width="100" Margin="176,37,518,269" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b1" Content="" Height="100" Width="100" Margin="281,37,413,269" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b2" Content="" Height="100" Width="100" Margin="386,37,308,269" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b3" Content="" Height="100" Width="100" Margin="176,142,518,164" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b4" Content="" Height="100" Width="100" Margin="281,142,413,164" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b5" Content="" Height="100" Width="100" Margin="386,142,308,164" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b6" Content="" Height="100" Width="100" Margin="176,247,518,59" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b7" Content="" Height="100" Width="100" Margin="281,247,413,59" Click="button2_Click" FontSize="30"/>
+                    <Button x:Name="b8" Content="" Height="100" Width="100" Margin="386,247,308,59" Click="button2_Click" FontSize="30"/>
+                    <Label x:Name="label" Content="" HorizontalAlignment="Left" Margin="80,164,0,0" VerticalAlignment="Top"/>
 
+                </Grid>
             </TabItem>
         </TabControl>
 
