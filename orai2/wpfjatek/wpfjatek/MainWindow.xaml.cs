@@ -46,27 +46,70 @@ namespace wpfjatek
             if (button.Content == "" && xo)
             {
                 button.Content = "X";
-                label.Content = button.Name[1];
                 ttt[Convert.ToInt32(button.Name[1].ToString())] = "X";
             }
             else if (button.Content == "" && !xo)
             {
                 button.Content = "O";
-                label.Content = button.Name[1];
                 ttt[Convert.ToInt32(button.Name[1].ToString())] = "O";
             }
-            if(
-                (ttt[0] != "" && ttt[0] == ttt[1] && ttt[1] == ttt[2]) ||
-                (ttt[3] != "" && ttt[3] == ttt[4] && ttt[4] == ttt[5]) ||
-                (ttt[6] != "" && ttt[6] == ttt[7] && ttt[7] == ttt[8]) ||
-                (ttt[0] != "" && ttt[0] == ttt[3] && ttt[3] == ttt[6]) ||
-                (ttt[1] != "" && ttt[1] == ttt[4] && ttt[4] == ttt[7]) ||
-                (ttt[2] != "" && ttt[2] == ttt[5] && ttt[5] == ttt[8]) ||
-                (ttt[0] != "" && ttt[0] == ttt[4] && ttt[4] == ttt[8]) ||
-                (ttt[6] != "" && ttt[6] == ttt[4] && ttt[4] == ttt[2])
+            if (
+                (ttt[0] == "X" && ttt[0] == ttt[1] && ttt[1] == ttt[2]) ||
+                (ttt[3] == "X" && ttt[3] == ttt[4] && ttt[4] == ttt[5]) ||
+                (ttt[6] == "X" && ttt[6] == ttt[7] && ttt[7] == ttt[8]) ||
+                (ttt[0] == "X" && ttt[0] == ttt[3] && ttt[3] == ttt[6]) ||
+                (ttt[1] == "X" && ttt[1] == ttt[4] && ttt[4] == ttt[7]) ||
+                (ttt[2] == "X" && ttt[2] == ttt[5] && ttt[5] == ttt[8]) ||
+                (ttt[0] == "X" && ttt[0] == ttt[4] && ttt[4] == ttt[8]) ||
+                (ttt[6] == "X" && ttt[6] == ttt[4] && ttt[4] == ttt[2])
             )
             {
-                label.Content = "game over";
+                label.Content = "game over - X won";
+                b0.IsEnabled = false;
+                b1.IsEnabled = false;
+                b2.IsEnabled = false;
+                b3.IsEnabled = false;
+                b4.IsEnabled = false;
+                b5.IsEnabled = false;
+                b6.IsEnabled = false;
+                b7.IsEnabled = false;
+                b8.IsEnabled = false;
+            }
+            if (
+                (ttt[0] == "O" && ttt[0] == ttt[1] && ttt[1] == ttt[2]) ||
+                (ttt[3] == "O" && ttt[3] == ttt[4] && ttt[4] == ttt[5]) ||
+                (ttt[6] == "O" && ttt[6] == ttt[7] && ttt[7] == ttt[8]) ||
+                (ttt[0] == "O" && ttt[0] == ttt[3] && ttt[3] == ttt[6]) ||
+                (ttt[1] == "O" && ttt[1] == ttt[4] && ttt[4] == ttt[7]) ||
+                (ttt[2] == "O" && ttt[2] == ttt[5] && ttt[5] == ttt[8]) ||
+                (ttt[0] == "O" && ttt[0] == ttt[4] && ttt[4] == ttt[8]) ||
+                (ttt[6] == "O" && ttt[6] == ttt[4] && ttt[4] == ttt[2])
+)
+            {
+                label.Content = "game over - O won";
+                b0.IsEnabled = false;
+                b1.IsEnabled = false;
+                b2.IsEnabled = false;
+                b3.IsEnabled = false;
+                b4.IsEnabled = false;
+                b5.IsEnabled = false;
+                b6.IsEnabled = false;
+                b7.IsEnabled = false;
+                b8.IsEnabled = false;
+            }
+            if (
+                ttt[0] != "" &&
+                ttt[1] != "" &&
+                ttt[2] != "" &&
+                ttt[3] != "" &&
+                ttt[4] != "" &&
+                ttt[5] != "" &&
+                ttt[6] != "" &&
+                ttt[7] != "" &&
+                ttt[8] != ""
+            )
+            {
+                label.Content = "game over - draw";
                 b0.IsEnabled = false;
                 b1.IsEnabled = false;
                 b2.IsEnabled = false;
