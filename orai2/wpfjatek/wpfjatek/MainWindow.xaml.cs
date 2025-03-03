@@ -123,5 +123,26 @@ namespace wpfjatek
 
             xo = !xo;
         }
+        public void AknaKereso(object sender, RoutedEventArgs e)
+        {
+            int sor = 9;
+            int oszlop = 9;
+            for (int i = 0; i < sor; i++)
+            {
+                for (int j = 0; j < oszlop; j++)
+                {
+                    Button gomb = new Button();
+
+                    gomb.Content = i.ToString();
+                    gomb.Name = "Button" + i.ToString();
+
+                    gomb.Height = 30;
+                    gomb.Width = 30;
+                    gomb.Margin = new Thickness(60 * i, 60 * j, 0, 0);
+
+                    akna.Children.Add(gomb);
+                }
+            }
+        }
     }
 }
