@@ -1,6 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows;
+using System.Windows.Automation.Peers;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Documents;
@@ -127,18 +128,18 @@ namespace wpfjatek
         {
             int sor = 9;
             int oszlop = 9;
-            for (int i = 0; i < sor; i++)
+            for (int y = 0; y < sor; y++)
             {
-                for (int j = 0; j < oszlop; j++)
+                for (int x = 0; x < oszlop; x++)
                 {
                     Button gomb = new Button();
 
-                    gomb.Content = i.ToString();
-                    gomb.Name = "Button" + i.ToString();
+                    gomb.Content = y.ToString() + " " + x.ToString();
+                    gomb.Name = "Button" + y.ToString();
 
                     gomb.Height = 30;
                     gomb.Width = 30;
-                    gomb.Margin = new Thickness(60 * i, 60 * j, 0, 0);
+                    gomb.Margin = new Thickness(gomb.Width * 2 * y - Width / 1.5, gomb.Height * 2 * x - Height / 1.5, 0, 0);
 
                     akna.Children.Add(gomb);
                 }

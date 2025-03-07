@@ -35,6 +35,7 @@
             </TabItem>
             <TabItem Header="Akna kereső">
                 <Grid Background="#FFE5E5E5" x:Name="akna" Loaded="AknaKereso">
+
                 </Grid>
             </TabItem>
         </TabControl>
