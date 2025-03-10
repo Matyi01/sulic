@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-H:\sulic\orai2\wpfJatek2gyak\wpfJatek2gyak\obj\Debug\net8.0-windows\
+D:\git\sulic\orai2\wpfJatek2gyak\wpfJatek2gyak\obj\Debug\net8.0-windows\
 wpfJatek2gyak
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-H:\sulic\orai2\wpfJatek2gyak\wpfJatek2gyak\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\git\sulic\orai2\wpfJatek2gyak\wpfJatek2gyak\App.xaml
 11407045341
 
 6983699349
-198-635017904
+1981839832580
 MainWindow.xaml;
 
 False

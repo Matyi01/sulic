@@ -48,7 +48,18 @@ namespace wpfJatek2gyak
             this.ResizeMode = ResizeMode.NoResize;
 
             aknalerak();
+            for (int i = 0; i < aknahely.GetLength(0); i++)
+            {
+                for (int j = 0; j < aknahely.GetLength(1); j++)
+                {
+                    if (aknahely[i, j] != 10)
+                    {
+                        aknahely[i, j] = aknaszamol(i, j);
+                    }
+                }
+            }
             aknamutat();
+
         }
         void aknalerak()
         {
@@ -79,8 +90,23 @@ namespace wpfJatek2gyak
         }
         int aknaszamol(int sor, int oszlop)
         {
-
-            return 0;
+            int db = 0;
+            for (int i = -1; i < 2; i++)
+            {
+                for (int j = -1; j < 2; j++)
+                {
+                    int newSor = sor + i;
+                    int newOszlop = oszlop + j;
+                    if (newSor >= 0 && newSor < aknahely.GetLength(0) && newOszlop >= 0 && newOszlop < aknahely.GetLength(1))
+                    {
+                        if (aknahely[newSor, newOszlop] == 10)
+                        {
+                            db++;
+                        }
+                    }
+                }
+            }
+            return db;
         }
         public void kattintas(object sender, RoutedEventArgs e)
         {
