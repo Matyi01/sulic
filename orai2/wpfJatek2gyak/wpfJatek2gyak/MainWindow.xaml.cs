@@ -22,7 +22,10 @@ namespace wpfJatek2gyak
         }
         int sor = 9;
         int oszlop = 9;
+        int aknadb = 10;
         Button[,] gombok;
+        int[,] aknahely;
+        Random rnd = new Random();
         private void Grid_Loaded(object sender, RoutedEventArgs e)
         {
             gombok = new Button[sor, oszlop];
@@ -43,10 +46,41 @@ namespace wpfJatek2gyak
             }
             this.SizeToContent = SizeToContent.WidthAndHeight;
             this.ResizeMode = ResizeMode.NoResize;
+
+            aknalerak();
+            aknamutat();
         }
         void aknalerak()
         {
+            aknahely = new int[sor, oszlop];
+            for (int i = 0; i < aknadb; i++)
+            {
+                int rndsor = rnd.Next(sor);
+                int rndoszlop = rnd.Next(oszlop);
+                if (aknahely[rndsor, rndoszlop] == 10)
+                {
+                    i--;
+                }
+                else
+                {
+                    aknahely[rndsor, rndoszlop] = 10; //1db akna random helyre
+                }
+            }
+        }
+        void aknamutat()
+        {
+            for (int i = 0; i < aknahely.GetLength(0); i++)
+            {
+                for (int j = 0; j < aknahely.GetLength(1); j++)
+                {
+                    gombok[i, j].Content = aknahely[i, j];
+                }
+            }
+        }
+        int aknaszamol(int sor, int oszlop)
+        {
 
+            return 0;
         }
         public void kattintas(object sender, RoutedEventArgs e)
         {
