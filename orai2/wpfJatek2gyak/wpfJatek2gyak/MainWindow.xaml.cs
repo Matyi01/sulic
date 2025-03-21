@@ -7,6 +7,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
+using System.Windows.Resources;
 using System.Windows.Shapes;
 
 namespace wpfJatek2gyak
@@ -26,6 +27,7 @@ namespace wpfJatek2gyak
         Button[,] gombok;
         int[,] aknahely;
         Random rnd = new Random();
+        Brush[] szinek = [Brushes.White, Brushes.Blue, Brushes.Green, Brushes.Red, Brushes.Purple];
         private void Grid_Loaded(object sender, RoutedEventArgs e)
         {
             gombok = new Button[sor, oszlop];
@@ -39,6 +41,7 @@ namespace wpfJatek2gyak
                     g.Width = 35;
                     g.Height = 35;
                     g.Click += kattintas;
+                    g.MouseRightButtonDown += jobbkattintas;
                     g.Margin = new Thickness(i * 35, j * 35, 0, 0);
                     Grid.Children.Add(g);
                     gombok[j, i] = g;
@@ -58,7 +61,7 @@ namespace wpfJatek2gyak
                     }
                 }
             }
-            aknamutat();
+            //aknamutat();
 
         }
         void aknalerak()
@@ -84,7 +87,24 @@ namespace wpfJatek2gyak
             {
                 for (int j = 0; j < aknahely.GetLength(1); j++)
                 {
-                    gombok[i, j].Content = aknahely[i, j];
+                    if (aknahely[i, j] == 0)
+                    {
+                        gombok[i, j].Content = "";
+                        gombok[i, j].Background = Brushes.White;
+                    }
+                    else if (aknahely[i, j] == 10)
+                    {
+                        gombok[i, j].Content = "💣";
+                    }
+                    else
+                    {
+                        if (aknahely[i, j] > 0 && aknahely[i, j] < 10)
+                        {
+                            gombok[i, j].Foreground = szinek[aknahely[i, j]];
+                        }
+                        gombok[i, j].Content = aknahely[i, j];
+
+                    }
                 }
             }
         }
@@ -95,11 +115,9 @@ namespace wpfJatek2gyak
             {
                 for (int j = -1; j < 2; j++)
                 {
-                    int newSor = sor + i;
-                    int newOszlop = oszlop + j;
-                    if (newSor >= 0 && newSor < aknahely.GetLength(0) && newOszlop >= 0 && newOszlop < aknahely.GetLength(1))
+                    if (sor + i >= 0 && sor + i < aknahely.GetLength(0) && oszlop + j >= 0 && oszlop + j < aknahely.GetLength(1))
                     {
-                        if (aknahely[newSor, newOszlop] == 10)
+                        if (aknahely[sor + i, oszlop + j] == 10)
                         {
                             db++;
                         }
@@ -110,7 +128,78 @@ namespace wpfJatek2gyak
         }
         public void kattintas(object sender, RoutedEventArgs e)
         {
+            Button button = sender as Button;
 
+            for (int i = 0; i < aknahely.GetLength(0); i++)
+            {
+                for (int j = 0; j < aknahely.GetLength(1); j++)
+                {
+                    if (gombok[i, j] == button)
+                    {
+                        helyellenoriz(i, j);
+                        i = gombok.GetLength(0);
+                        j = gombok.GetLength(1);
+                    }
+                }
+            }
+        }
+        public void jobbkattintas(object sender, RoutedEventArgs e)
+        {
+            Button button = sender as Button;
+
+            for (int i = 0; i < aknahely.GetLength(0); i++)
+            {
+                for (int j = 0; j < aknahely.GetLength(1); j++)
+                {
+                    if (gombok[i, j] == button)
+                    {
+                        if (gombok[i, j].Content == null)
+                        {
+                            gombok[i, j].Content = "🚩";
+                        }
+                        else if (gombok[i, j].Content == "🚩")
+                        {
+                            gombok[i, j].Content = "";
+                        }
+                        i = gombok.GetLength(0);
+                        j = gombok.GetLength(1);
+                    }
+                }
+            }
+        }
+        public void helyellenoriz(int i, int j)
+        {
+            if (i < 0 || i >= aknahely.GetLength(0) || j < 0 || j >= aknahely.GetLength(1))
+            {
+                return;
+            }
+            if (gombok[i, j].Content != null)
+            {
+                return;
+            }
+            if (aknahely[i, j] == 10)
+            {
+                aknamutat();
+                MessageBox.Show("Vesztettél!");
+                Close();
+                return;
+            }
+            if (aknahely[i, j] != 0)
+            {
+                gombok[i, j].Content = aknahely[i, j];
+                gombok[i, j].Foreground = szinek[aknahely[i, j]];
+                gombok[i, j].Background = Brushes.White;
+                return;
+            }
+            if (aknahely[i, j] == 0)
+            {
+                gombok[i, j].Content = "";
+                gombok[i ,j].Background = Brushes.White;
+                helyellenoriz(i - 1, j);
+                helyellenoriz(i + 1, j);
+                helyellenoriz(i, j - 1);
+                helyellenoriz(i, j + 1);
+            }
         }
     }
 }
