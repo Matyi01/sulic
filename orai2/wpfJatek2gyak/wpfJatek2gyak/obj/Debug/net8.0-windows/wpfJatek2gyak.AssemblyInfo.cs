@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("wpfJatek2gyak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4b4c5ee3b5e2fa4c67b2c4e6a57f3b69580a7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee17d7557e350d6fbd9f6f167fce302e430c16c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("wpfJatek2gyak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("wpfJatek2gyak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

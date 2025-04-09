@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj": {}
+    "H:\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj": {}
   },
   "projects": {
-    "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj": {
+    "H:\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj",
+        "projectUniqueName": "H:\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj",
         "projectName": "wpfsql",
-        "projectPath": "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj",
-        "packagesPath": "C:\\Users\\holcz\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\sulic\\projekt\\wpfsql\\wpfsql\\obj\\",
+        "projectPath": "H:\\sulic\\projekt\\wpfsql\\wpfsql\\wpfsql.csproj",
+        "packagesPath": "C:\\Users\\holczerm21\\.nuget\\packages\\",
+        "outputPath": "H:\\sulic\\projekt\\wpfsql\\wpfsql\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holcz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\holczerm21\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -42,7 +47,7 @@
           "dependencies": {
             "MySqlConnector": {
               "target": "Package",
-              "version": "[2.3.7, )"
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
@@ -56,6 +61,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.32, 6.0.32]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -64,7 +87,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
