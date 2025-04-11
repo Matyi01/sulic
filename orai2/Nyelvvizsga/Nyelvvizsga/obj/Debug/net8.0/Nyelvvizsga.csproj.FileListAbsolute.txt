@@ -1,0 +1,15 @@
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.exe
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.deps.json
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.runtimeconfig.json
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.dll
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\bin\Debug\net8.0\Nyelvvizsga.pdb
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.AssemblyInfoInputs.cache
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.AssemblyInfo.cs
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.sourcelink.json
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.dll
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\refint\Nyelvvizsga.dll
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.pdb
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\Nyelvvizsga.genruntimeconfig.cache
+H:\sulic\orai2\Nyelvvizsga\Nyelvvizsga\obj\Debug\net8.0\ref\Nyelvvizsga.dll
