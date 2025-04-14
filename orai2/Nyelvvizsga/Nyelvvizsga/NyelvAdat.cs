@@ -33,9 +33,9 @@ namespace Nyelvvizsga
                 this.vizsgak.Add(new EvAdat(evszamok[i], adatok[i]));
             }
         }
-        public override string ToString()
+        public int sum()
         {
-            return nyelv + ": " + vizsgak;
+            return this.vizsgak.Sum(e => e.db);
         }
     }
 }

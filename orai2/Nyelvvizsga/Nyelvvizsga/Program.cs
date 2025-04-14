@@ -23,5 +23,4 @@ static List<NyelvAdat> fajlbetolt(string filename)
 List<NyelvAdat> sikeres = fajlbetolt("sikeres");
 List<NyelvAdat> sikertelen = fajlbetolt("sikertelen");
 
-sikeres.ForEach(i => Console.WriteLine(i));
-sikertelen.ForEach(i => Console.WriteLine(i));
+

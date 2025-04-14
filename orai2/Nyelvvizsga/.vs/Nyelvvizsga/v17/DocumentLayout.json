@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "H:\\sulic\\orai2\\Nyelvvizsga\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|h:\\sulic\\orai2\\nyelvvizsga\\nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|h:\\sulic\\orai2\\nyelvvizsga\\nyelvvizsga\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\nyelvadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\evadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|h:\\sulic\\orai2\\nyelvvizsga\\nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B471213-680C-4FF1-9FED-43310336C97B}|Nyelvvizsga\\Nyelvvizsga.csproj|solutionrelative:nyelvvizsga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "sikertelen.csv",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv",
+              "RelativeDocumentMoniker": "Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv",
+              "ToolTip": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv",
+              "RelativeToolTip": "Nyelvvizsga\\bin\\Debug\\net8.0\\sikertelen.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-14T11:39:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sikeres.csv",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv",
+              "RelativeDocumentMoniker": "Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv",
+              "ToolTip": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv",
+              "RelativeToolTip": "Nyelvvizsga\\bin\\Debug\\net8.0\\sikeres.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-14T11:39:42.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NyelvAdat.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\NyelvAdat.cs",
               "ToolTip": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\NyelvAdat.cs",
               "RelativeToolTip": "Nyelvvizsga\\NyelvAdat.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAApAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:26:00.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EvAdat.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\EvAdat.cs",
               "ToolTip": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\EvAdat.cs",
               "RelativeToolTip": "Nyelvvizsga\\EvAdat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:22:06.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
               "RelativeDocumentMoniker": "Nyelvvizsga\\Program.cs",
               "ToolTip": "H:\\sulic\\orai2\\Nyelvvizsga\\Nyelvvizsga\\Program.cs",
               "RelativeToolTip": "Nyelvvizsga\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T06:11:52.55Z",
               "EditorCaption": ""
