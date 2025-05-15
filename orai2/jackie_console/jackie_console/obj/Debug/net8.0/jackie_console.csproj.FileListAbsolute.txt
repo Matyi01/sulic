@@ -1,0 +1,15 @@
+H:\sulic\orai2\jackie_console\jackie_console\bin\Debug\net8.0\jackie_console.exe
+H:\sulic\orai2\jackie_console\jackie_console\bin\Debug\net8.0\jackie_console.deps.json
+H:\sulic\orai2\jackie_console\jackie_console\bin\Debug\net8.0\jackie_console.runtimeconfig.json
+H:\sulic\orai2\jackie_console\jackie_console\bin\Debug\net8.0\jackie_console.dll
+H:\sulic\orai2\jackie_console\jackie_console\bin\Debug\net8.0\jackie_console.pdb
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.AssemblyInfoInputs.cache
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.AssemblyInfo.cs
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.sourcelink.json
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.dll
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\refint\jackie_console.dll
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.pdb
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\jackie_console.genruntimeconfig.cache
+H:\sulic\orai2\jackie_console\jackie_console\obj\Debug\net8.0\ref\jackie_console.dll

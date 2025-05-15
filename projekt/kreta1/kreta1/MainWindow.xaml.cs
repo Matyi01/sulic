@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Data;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -23,11 +24,24 @@ namespace kreta1
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            fooldal.Width = Width / 5 - 5;
-            orarend.Width = Width / 5 - 5;
-            ertesitesek.Width = Width / 5 - 5;
-            mulasztas.Width = Width / 5 - 5;
-            egyeb.Width = Width / 5 - 5;
+            fooldal.Width = Width / 5 - 4;
+            orarend.Width = Width / 5 - 4;
+            ertesitesek.Width = Width / 5 - 4;
+            mulasztas.Width = Width / 5 - 4;
+            egyeb.Width = Width / 5 - 4;
+        }
+
+        private void Window_SizeChanged(object sender, SizeChangedEventArgs e)
+        {
+            fooldal.Width = Width / 5 - 4;
+            orarend.Width = Width / 5 - 4;
+            ertesitesek.Width = Width / 5 - 4;
+            mulasztas.Width = Width / 5 - 4;
+            egyeb.Width = Width / 5 - 4;
+        }
+        public void sqlkapcsolat()
+        {
+
         }
     }
 }

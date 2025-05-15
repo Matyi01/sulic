@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\Kuty\u00E1k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|h:\\sulic\\orai2\\kuty\u00E1k\\kuty\u00E1k\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|h:\\sulic\\orai2\\kuty\u00E1k\\kuty\u00E1k\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|h:\\sulic\\orai2\\kuty\u00E1k\\kuty\u00E1k\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|h:\\sulic\\orai2\\kuty\u00E1k\\kuty\u00E1k\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutyafajta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|h:\\sulic\\orai2\\kuty\u00E1k\\kuty\u00E1k\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A498A16-F0DC-43B1-B583-3799A5C49E9B}|Kuty\u00E1k\\Kuty\u00E1k.csproj|solutionrelative:kuty\u00E1k\\kutyanev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kutya.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\Kutya.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\Kutya.cs",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\Kutya.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\Kutya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:03:10.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KutyaFajta.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaFajta.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\KutyaFajta.cs",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaFajta.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\KutyaFajta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:59:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KutyaNevek.csv",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv",
+              "RelativeToolTip": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaNevek.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-13T10:55:53.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Kutyak.csv",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv",
+              "RelativeToolTip": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\Kutyak.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-13T10:55:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KutyaFajtak.csv",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv",
+              "RelativeToolTip": "Kuty\u00E1k\\bin\\Debug\\net8.0-windows\\KutyaFajtak.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-13T10:55:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KutyaNev.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaNev.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\KutyaNev.cs",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\KutyaNev.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\KutyaNev.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:47:01.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\MainWindow.xaml",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml",
+              "RelativeToolTip": "Kuty\u00E1k\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T10:45:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kuty\u00E1k\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\sulic\\orai2\\Kuty\u00E1k\\Kuty\u00E1k\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kuty\u00E1k\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAUwHIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:45:15.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
