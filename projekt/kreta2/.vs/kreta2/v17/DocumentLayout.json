@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\projekt\\kreta2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\orarendpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\orarendpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\orarendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\orarendpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\hianyzasokpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\hianyzasokpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\jegyekpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\jegyekpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\jegyekpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\jegyekpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\kreta2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\kreta2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\views\\hianyzasokpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\views\\hianyzasokpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|h:\\sulic\\projekt\\kreta2\\kreta2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090E089B-EB44-4B56-8BE9-677EA002161B}|kreta2\\kreta2.csproj|solutionrelative:kreta2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HianyzasokPage.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\HianyzasokPage.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\Views\\HianyzasokPage.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\HianyzasokPage.xaml.cs",
+              "RelativeToolTip": "kreta2\\Views\\HianyzasokPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:42:14.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HianyzasokPage.xaml",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\HianyzasokPage.xaml",
+              "RelativeDocumentMoniker": "kreta2\\Views\\HianyzasokPage.xaml",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\HianyzasokPage.xaml",
+              "RelativeToolTip": "kreta2\\Views\\HianyzasokPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:42:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JegyekPage.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\JegyekPage.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\Views\\JegyekPage.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\JegyekPage.xaml.cs",
+              "RelativeToolTip": "kreta2\\Views\\JegyekPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:41:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JegyekPage.xaml",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\JegyekPage.xaml",
+              "RelativeDocumentMoniker": "kreta2\\Views\\JegyekPage.xaml",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\JegyekPage.xaml",
+              "RelativeToolTip": "kreta2\\Views\\JegyekPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:41:43.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrarendPage.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\OrarendPage.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\Views\\OrarendPage.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\OrarendPage.xaml.cs",
+              "RelativeToolTip": "kreta2\\Views\\OrarendPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:41:09.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrarendPage.xaml",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\OrarendPage.xaml",
+              "RelativeDocumentMoniker": "kreta2\\Views\\OrarendPage.xaml",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\Views\\OrarendPage.xaml",
+              "RelativeToolTip": "kreta2\\Views\\OrarendPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:40:54.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "kreta2",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\kreta2.csproj",
+              "RelativeDocumentMoniker": "kreta2\\kreta2.csproj",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\kreta2.csproj",
+              "RelativeToolTip": "kreta2\\kreta2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T11:37:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\LoginWindow.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "kreta2\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:36:55.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "kreta2\\LoginWindow.xaml",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\LoginWindow.xaml",
+              "RelativeToolTip": "kreta2\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:36:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\App.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\App.xaml.cs",
+              "RelativeToolTip": "kreta2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:34:45.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kreta2\\MainWindow.xaml",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\MainWindow.xaml",
+              "RelativeToolTip": "kreta2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:30:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\sulic\\projekt\\kreta2\\kreta2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kreta2\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\sulic\\projekt\\kreta2\\kreta2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "kreta2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:30:42.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿
+<Window x:Class="KretaClone.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Bejelentkezés" Height="300" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#2D3E50">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="250">
+            <TextBlock Text="KRÉTA" Foreground="White" FontSize="24" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+            <TextBox x:Name="usernameBox"  Margin="0,5" />
+            <PasswordBox x:Name="passwordBox" Margin="0,5" />
+            <Button Content="Bejelentkezés" Click="LoginButton_Click" Margin="0,10" />
+        </StackPanel>
+    </Grid>
+</Window>
