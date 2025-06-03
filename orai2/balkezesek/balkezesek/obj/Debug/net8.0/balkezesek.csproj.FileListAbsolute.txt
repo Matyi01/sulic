@@ -1,0 +1,15 @@
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.AssemblyInfoInputs.cache
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.AssemblyInfo.cs
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.csproj.CoreCompileInputs.cache
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.sourcelink.json
+H:\sulic\orai2\balkezesek\balkezesek\bin\Debug\net8.0\balkezesek.exe
+H:\sulic\orai2\balkezesek\balkezesek\bin\Debug\net8.0\balkezesek.deps.json
+H:\sulic\orai2\balkezesek\balkezesek\bin\Debug\net8.0\balkezesek.runtimeconfig.json
+H:\sulic\orai2\balkezesek\balkezesek\bin\Debug\net8.0\balkezesek.dll
+H:\sulic\orai2\balkezesek\balkezesek\bin\Debug\net8.0\balkezesek.pdb
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.dll
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\refint\balkezesek.dll
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.pdb
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\balkezesek.genruntimeconfig.cache
+H:\sulic\orai2\balkezesek\balkezesek\obj\Debug\net8.0\ref\balkezesek.dll

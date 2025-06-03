@@ -9,7 +9,13 @@
     <Grid>
         <TabControl x:Name="tabControl">
             <TabItem x:Name="fooldal" Header="Főoldal">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="251*"/>
+                        <ColumnDefinition Width="543*"/>
+                    </Grid.ColumnDefinitions>
+
+                </Grid>
             </TabItem>
             <TabItem x:Name="orarend" Header="Óraend">
                 <Grid Background="#FFE5E5E5"/>
@@ -18,7 +24,16 @@
                 <Grid Background="#FFE5E5E5"/>
             </TabItem>
             <TabItem x:Name="mulasztas" Header="Mulasztás">
-                <Grid Background="#FFE5E5E5"/>
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Mulasztott órák:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="110,15,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+                    <Label Content="Igazolt órák:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="90,46,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+                    <ListBox d:ItemsSource="{d:SampleData ItemCount=0}" Margin="10,72,10,10">
+
+
+                    </ListBox>
+                </Grid>
             </TabItem>
             <TabItem x:Name="egyeb" Header="Egyéb">
                 <Grid Background="#FFE5E5E5"/>

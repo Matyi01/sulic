@@ -1,0 +1,15 @@
+H:\sulic\doga1\Morze\Morze\bin\Debug\net8.0\Morze.exe
+H:\sulic\doga1\Morze\Morze\bin\Debug\net8.0\Morze.deps.json
+H:\sulic\doga1\Morze\Morze\bin\Debug\net8.0\Morze.runtimeconfig.json
+H:\sulic\doga1\Morze\Morze\bin\Debug\net8.0\Morze.dll
+H:\sulic\doga1\Morze\Morze\bin\Debug\net8.0\Morze.pdb
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.AssemblyInfoInputs.cache
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.AssemblyInfo.cs
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.sourcelink.json
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.dll
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\refint\Morze.dll
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.pdb
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\Morze.genruntimeconfig.cache
+H:\sulic\doga1\Morze\Morze\obj\Debug\net8.0\ref\Morze.dll

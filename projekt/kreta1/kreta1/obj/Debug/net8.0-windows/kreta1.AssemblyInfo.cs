@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kreta1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+262851bc5570995d6a11856041365b24029bdf2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5646cb3c9d2cceac0ffb871189b3471309fed08c")]
 [assembly: System.Reflection.AssemblyProductAttribute("kreta1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kreta1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

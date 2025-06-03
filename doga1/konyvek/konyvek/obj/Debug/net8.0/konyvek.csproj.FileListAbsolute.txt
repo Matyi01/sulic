@@ -1,0 +1,15 @@
+H:\sulic\doga1\konyvek\konyvek\bin\Debug\net8.0\konyvek.exe
+H:\sulic\doga1\konyvek\konyvek\bin\Debug\net8.0\konyvek.deps.json
+H:\sulic\doga1\konyvek\konyvek\bin\Debug\net8.0\konyvek.runtimeconfig.json
+H:\sulic\doga1\konyvek\konyvek\bin\Debug\net8.0\konyvek.dll
+H:\sulic\doga1\konyvek\konyvek\bin\Debug\net8.0\konyvek.pdb
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.GeneratedMSBuildEditorConfig.editorconfig
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfoInputs.cache
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfo.cs
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.csproj.CoreCompileInputs.cache
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.sourcelink.json
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.dll
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\refint\konyvek.dll
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.pdb
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\konyvek.genruntimeconfig.cache
+H:\sulic\doga1\konyvek\konyvek\obj\Debug\net8.0\ref\konyvek.dll
