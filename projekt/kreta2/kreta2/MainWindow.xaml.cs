@@ -26,6 +26,10 @@ namespace KretaClone
         {
             MainContent.Navigate(new Views.HianyzasokPage());
         }
+        private void JegyekButton_Click(object sender, RoutedEventArgs e)
+        {
+            MainContent.Navigate(new Views.JegyekPage());
+        }
     }
 }
 

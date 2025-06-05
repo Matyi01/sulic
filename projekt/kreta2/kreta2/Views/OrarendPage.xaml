@@ -52,6 +52,12 @@
             <Border Grid.Row="3" Grid.Column="4" BorderBrush="Gray" BorderThickness="1" Padding="5">
                 <TextBlock Text="Történelem - 202" TextWrapping="Wrap"/>
             </Border>
+            <Border Grid.Row="2" Grid.Column="4" BorderBrush="Gray" BorderThickness="1" Padding="5">
+                <TextBlock Text="Irodalom - 202" TextWrapping="Wrap"/>
+            </Border>
+            <Border Grid.Row="5" Grid.Column="4" BorderBrush="Gray" BorderThickness="1" Padding="5">
+                <TextBlock Text="Programozás - 202" TextWrapping="Wrap"/>
+            </Border>
         </Grid>
     </ScrollViewer>
 </Page>
