@@ -1,0 +1,15 @@
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.exe
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.deps.json
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.runtimeconfig.json
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.dll
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.pdb
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfoInputs.cache
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfo.cs
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.sourcelink.json
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.dll
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\refint\Kalapacsvetes.dll
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
+D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll
