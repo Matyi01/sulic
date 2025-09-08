@@ -13,3 +13,18 @@ D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\ob
 D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
 D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
 D:\munkakönyvtár\Holczer Matyas\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.exe
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.deps.json
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.runtimeconfig.json
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.dll
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\bin\Debug\net8.0\Kalapacsvetes.pdb
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.AssemblyInfo.cs
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.sourcelink.json
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.dll
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\refint\Kalapacsvetes.dll
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.pdb
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\Kalapacsvetes.genruntimeconfig.cache
+C:\Users\admin\Documents\git\sulic\orai3\Kalapacsvetes\Kalapacsvetes\obj\Debug\net8.0\ref\Kalapacsvetes.dll

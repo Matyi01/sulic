@@ -26,5 +26,10 @@ namespace Kalapacsvetes2
             this.helyszin = vag[4];
             this.datum = vag[5];
         }
+
+        public override string ToString()
+        {
+            return helyezes + ", " + eredmeny + ", " + sportolo + ", " + orszagkod + ", " + helyszin + ", " + datum;
+        }
     }
 }

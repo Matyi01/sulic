@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("balkezesek")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5646cb3c9d2cceac0ffb871189b3471309fed08c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ff93c11beae23ffca3f25f4b999c81bdfd11190")]
 [assembly: System.Reflection.AssemblyProductAttribute("balkezesek")]
 [assembly: System.Reflection.AssemblyTitleAttribute("balkezesek")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

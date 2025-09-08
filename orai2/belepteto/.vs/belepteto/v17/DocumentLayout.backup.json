@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\sulic\\orai2\\belepteto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4DEC1A-5877-40AF-B7B2-C602FC22B96F}|belepteto\\belepteto.csproj|h:\\sulic\\orai2\\belepteto\\belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4DEC1A-5877-40AF-B7B2-C602FC22B96F}|belepteto\\belepteto.csproj|solutionrelative:belepteto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\belepteto\\belepteto\\bin\\Debug\\net8.0\\bedat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:belepteto\\bin\\Debug\\net8.0\\bedat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4DEC1A-5877-40AF-B7B2-C602FC22B96F}|belepteto\\belepteto.csproj|h:\\sulic\\orai2\\belepteto\\belepteto\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4DEC1A-5877-40AF-B7B2-C602FC22B96F}|belepteto\\belepteto.csproj|solutionrelative:belepteto\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bedat.txt",
+              "DocumentMoniker": "H:\\sulic\\orai2\\belepteto\\belepteto\\bin\\Debug\\net8.0\\bedat.txt",
+              "RelativeDocumentMoniker": "belepteto\\bin\\Debug\\net8.0\\bedat.txt",
+              "ToolTip": "H:\\sulic\\orai2\\belepteto\\belepteto\\bin\\Debug\\net8.0\\bedat.txt",
+              "RelativeToolTip": "belepteto\\bin\\Debug\\net8.0\\bedat.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-10T13:13:53.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adatok.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\belepteto\\belepteto\\adatok.cs",
+              "RelativeDocumentMoniker": "belepteto\\adatok.cs",
+              "ToolTip": "H:\\sulic\\orai2\\belepteto\\belepteto\\adatok.cs",
+              "RelativeToolTip": "belepteto\\adatok.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:44:08.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\sulic\\orai2\\belepteto\\belepteto\\Program.cs",
+              "RelativeDocumentMoniker": "belepteto\\Program.cs",
+              "ToolTip": "H:\\sulic\\orai2\\belepteto\\belepteto\\Program.cs",
+              "RelativeToolTip": "belepteto\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T12:40:50.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tanciskola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+453caa6d7c203cb568426bd2d4ad213b7b912487")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ff93c11beae23ffca3f25f4b999c81bdfd11190")]
 [assembly: System.Reflection.AssemblyProductAttribute("tanciskola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tanciskola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

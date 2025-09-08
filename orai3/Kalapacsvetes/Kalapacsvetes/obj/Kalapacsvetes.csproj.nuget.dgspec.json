@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\munkakönyvtár\\Holczer Matyas\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj": {}
+    "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj": {}
   },
   "projects": {
-    "D:\\munkakönyvtár\\Holczer Matyas\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj": {
+    "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\munkakönyvtár\\Holczer Matyas\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj",
         "projectName": "Kalapacsvetes",
-        "projectPath": "D:\\munkakönyvtár\\Holczer Matyas\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj",
-        "packagesPath": "C:\\Users\\holczer.matyas.21\\.nuget\\packages\\",
-        "outputPath": "D:\\munkakönyvtár\\Holczer Matyas\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\Kalapacsvetes.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\Kalapacsvetes\\Kalapacsvetes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\holczer.matyas.21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

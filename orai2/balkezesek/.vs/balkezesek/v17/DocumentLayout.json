@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\sulic\\orai2\\balkezesek\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|h:\\sulic\\orai2\\balkezesek\\balkezesek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|c:\\users\\admin\\documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|solutionrelative:balkezesek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|h:\\sulic\\orai2\\balkezesek\\balkezesek\\jatekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|c:\\users\\admin\\documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\jatekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98C1A77-11B1-4C7F-B9EE-0D87CE887888}|balkezesek\\balkezesek.csproj|solutionrelative:balkezesek\\jatekos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -22,43 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "balkezesek.csv",
-              "DocumentMoniker": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
               "RelativeDocumentMoniker": "balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
-              "ToolTip": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
+              "ToolTip": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
               "RelativeToolTip": "balkezesek\\bin\\Debug\\net8.0\\balkezesek.csv",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-05-27T11:07:58.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:07:58.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Jatekos.cs",
-              "DocumentMoniker": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\Jatekos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\Jatekos.cs",
               "RelativeDocumentMoniker": "balkezesek\\Jatekos.cs",
-              "ToolTip": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\Jatekos.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\Jatekos.cs",
               "RelativeToolTip": "balkezesek\\Jatekos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:05:55.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T11:05:55.475Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\Program.cs",
               "RelativeDocumentMoniker": "balkezesek\\Program.cs",
-              "ToolTip": "H:\\sulic\\orai2\\balkezesek\\balkezesek\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\git\\sulic\\orai2\\balkezesek\\balkezesek\\Program.cs",
               "RelativeToolTip": "balkezesek\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T11:05:02.086Z",
               "EditorCaption": ""

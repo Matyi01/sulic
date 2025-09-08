@@ -1,0 +1,4 @@
+9, 84,19, AdriĂĄn Annus, HUN, Szombathely, 2003.08.10
+11, 83,68, Tibor GĂŠcsek, HUN, Zalaegerszeg, 1998.09.19
+18, 83, BalĂĄzs Kiss, HUN, Saint-Denis, 1998.06.04
+21, 82,69, KrisztiĂĄn Pars, HUN, ZĂźrich, 2014.08.16
