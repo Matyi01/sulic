@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\bin\Debug\autoapp.exe.config
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\bin\Debug\autoapp.exe
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\bin\Debug\autoapp.pdb
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\obj\Debug\autoapp.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\obj\Debug\autoapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\obj\Debug\autoapp.exe
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\obj\Debug\autoapp.pdb
+C:\Users\admin\Documents\git\sulic\orai3\autoapp\autoapp\obj\Debug\autoapp.exe.config
