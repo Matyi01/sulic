@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\bin\Debug\net10.0\ascii2.exe
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\bin\Debug\net10.0\ascii2.deps.json
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\bin\Debug\net10.0\ascii2.runtimeconfig.json
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\bin\Debug\net10.0\ascii2.dll
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\bin\Debug\net10.0\ascii2.pdb
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.AssemblyInfo.cs
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.sourcelink.json
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.dll
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\refint\ascii2.dll
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.pdb
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ascii2.genruntimeconfig.cache
+C:\Users\admin\Documents\git\sulic\orai3\ascii2\ascii2\obj\Debug\net10.0\ref\ascii2.dll

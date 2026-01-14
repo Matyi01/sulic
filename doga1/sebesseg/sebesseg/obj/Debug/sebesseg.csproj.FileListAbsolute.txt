@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\bin\Debug\sebesseg.exe.config
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\bin\Debug\sebesseg.exe
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\bin\Debug\sebesseg.pdb
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\obj\Debug\sebesseg.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\obj\Debug\sebesseg.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\obj\Debug\sebesseg.exe
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\obj\Debug\sebesseg.pdb
+C:\Users\admin\Documents\git\sulic\doga1\sebesseg\sebesseg\obj\Debug\sebesseg.exe.config
