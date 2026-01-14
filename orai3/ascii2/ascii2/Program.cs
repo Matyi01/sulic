@@ -1,18 +1,4 @@
-﻿/*
-4 7_
-3 1/6 1/1,
-2 1/6 2/
-1 1/6_2/
-1(6_1(1/
-
-==
-    _______
-   /      /,
-  /      //
- /______//
-(______(/
- */
-static string atalakit(string sor)
+﻿static string atalakit(string sor)
 {
     string vissza = "";
     for (int i = 0; i < sor.Length - 1; i += 2)
@@ -66,3 +52,54 @@ foreach (string sor in szg_t)
 
 File.WriteAllLines("szg.txt", szg_t.Select(sor => atalakit(sor)));
 
+
+Console.WriteLine("5. feladat");
+
+Console.Write("Kérem adja meg a tömörített ábra fájlnevét: ");
+string tomoritettFajlNev = Console.ReadLine()!;
+Console.Write("Kérem adja meg a tömörítettlen ábra fájlnevét: ");
+string tomoritettlenFajlNev = Console.ReadLine()!;
+
+List<string> tomoritett = new List<string>(File.ReadLines(tomoritettFajlNev));
+List<string> tomoritettlen = new List<string>(File.ReadLines(tomoritettlenFajlNev));
+
+int tomoritettDb = 0;
+int tomoritettlenDb = 0;
+
+foreach (string sor in tomoritett)
+{
+    tomoritettDb += sor.TrimEnd().Length;
+}
+
+foreach (string sor in tomoritettlen)
+{
+    tomoritettlenDb += sor.TrimEnd().Length;
+}
+
+Console.WriteLine("A karakterek száma a tömörített állományban: " + tomoritettDb);
+Console.WriteLine("A karakterek száma a tömörítetlen állományban: " + tomoritettlenDb);
+Console.WriteLine("A tömörítési arány: " + ((double)tomoritettDb / tomoritettlenDb).ToString("0.##"));
+
+
+Console.WriteLine("6. feladat");
+
+List<string> konyv_t = new List<string>(File.ReadLines("konyv_t.txt"));
+
+Console.WriteLine("Az ábra magassága sorokban: " + konyv_t.Count);
+
+int leghosszabb = 0;
+foreach (string sor in konyv_t)
+{
+    if (atalakit(sor).Length > leghosszabb)
+    {
+        leghosszabb = atalakit(sor).Length;
+    }
+}
+Console.WriteLine("Az ábra szélessége karakterekben: " + leghosszabb);
+
+int blokkDb = 0;
+foreach (string sor in konyv_t)
+{
+    blokkDb += sor.Length / 2;
+}
+Console.WriteLine("A blokkok száma: " + blokkDb);

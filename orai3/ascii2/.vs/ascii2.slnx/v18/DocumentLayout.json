@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\ascii2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC072D1-6DD7-44F5-987B-8DA762710451}|ascii2\\ascii2.csproj|c:\\users\\admin\\documents\\git\\sulic\\orai3\\ascii2\\ascii2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCC072D1-6DD7-44F5-987B-8DA762710451}|ascii2\\ascii2.csproj|solutionrelative:ascii2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{771B231B-B640-F8C4-5D9F-1BAFD99B4389}|ascii2\\ascii2.csproj|c:\\users\\admin\\documents\\git\\sulic\\orai3\\ascii2\\ascii2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771B231B-B640-F8C4-5D9F-1BAFD99B4389}|ascii2\\ascii2.csproj|solutionrelative:ascii2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "ascii2\\Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\git\\sulic\\orai3\\ascii2\\ascii2\\Program.cs",
               "RelativeToolTip": "ascii2\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwEIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T07:12:11.378Z",
               "EditorCaption": ""
